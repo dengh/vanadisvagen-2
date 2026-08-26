@@ -56,11 +56,9 @@ a {
 }
 
 .hero {
-  display: grid;
-  grid-template-columns: minmax(360px, 0.86fr) minmax(0, 1.14fr);
-  min-height: 460px;
+  display: block;
+  min-height: 0;
   border-bottom: 1px solid var(--line);
-  overflow: hidden;
 }
 
 .hero-text {
@@ -68,7 +66,9 @@ a {
   flex-direction: column;
   justify-content: center;
   gap: 26px;
-  padding: clamp(38px, 6vw, 72px) clamp(22px, 5vw, 72px);
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: clamp(54px, 8vw, 104px) clamp(18px, 4vw, 56px);
 }
 
 .hero-image {
@@ -93,10 +93,9 @@ h3 {
 }
 
 h1 {
-  max-width: 720px;
+  max-width: 100%;
   font-size: clamp(3rem, 5vw, 5.2rem);
   font-weight: 850;
-  overflow-wrap: anywhere;
 }
 
 h2 {
@@ -114,7 +113,7 @@ p {
 }
 
 .lead {
-  max-width: 640px;
+  max-width: 760px;
   color: #3f474a;
   font-size: clamp(1.08rem, 2vw, 1.34rem);
 }
