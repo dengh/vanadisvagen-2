@@ -1,47 +1,47 @@
-# Project Name
+# Projektnamn
 
-Status: Backlog / Exploring / Active / Waiting / Done  
-Priority: Low / Medium / High  
-Owner: TBD  
-Target timing: TBD
+Status: Backlog / Utforskas / Aktivt / Vantar / Klart
+Prioritet: Lag / Medium / Hog
+Agare: TBD
+Malperiod: TBD
 
-## Goal
+## Mal
 
-What are we trying to improve?
+Vad forsoker vi forbättra?
 
-## Why It Matters
+## Varfor Det Spelar Roll
 
-What problem does this solve, or what feeling does it create?
+Vilket problem loser det, eller vilken kansla skapar det?
 
-## Scope
+## Omfattning
 
-In:
+Ingår:
 
-- 
+-
 
-Out:
+Ingår Inte:
 
-- 
+-
 
-## Questions
+## Fragor
 
-- 
+-
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Due | Status | Notes |
+| Uppgift | Agare | Senast | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
 
 ## Budget
 
-| Item | Estimate | Quote / Actual | Notes |
+| Post | Estimat | Offert / Utfall | Anteckningar |
 | --- | ---: | ---: | --- |
 
-## Decisions
+## Beslut
 
-| Decision | Options | Needed By | Outcome |
+| Beslut | Alternativ | Behovs Senast | Utfall |
 | --- | --- | --- | --- |
 
-## References
+## Referenser
 
-- 
+-

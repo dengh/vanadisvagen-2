@@ -1,22 +1,22 @@
-# Decision
+# Beslut
 
-Date:
-Project:
-People involved:
+Datum:
+Projekt:
+Personer:
 
-## Decision
-
-
-## Options Considered
-
-- 
-
-## Why
+## Beslut
 
 
-## Risks Or Tradeoffs
+## Alternativ Som Overvagdes
+
+-
+
+## Varfor
 
 
-## Follow-Up Tasks
+## Risker Eller Avvagningar
 
-- [ ] 
+
+## Foljduppgifter
+
+- [ ]

@@ -1,53 +1,57 @@
-# Quick Context For New Codex Chats
+# Snabbkontext For Nya Codex-Chattar
 
-This project is for planning everything related to our new apartment at Vanadisvagen 2 in Stockholm.
+Det har projektet handlar om att planera allt kring var nya lagenhet pa Vanadisvagen 2 i Stockholm.
 
-We bought the apartment and get access on 2026-12-21. The workspace should help us organize renovation ideas, move-in planning, documents, tasks, decisions, budgets, and notes we can share with each other.
+Vi har kopt lagenheten och far tilltrade 2026-12-21. Arbetsytan ska hjalpa oss att organisera renoveringsideer, inflyttningsplanering, dokument, uppgifter, beslut, budget och anteckningar som vi kan dela med varandra.
 
-I will only interact with this project through Codex, so please actively help keep the files organized. When I share new thoughts, turn them into the right kind of note: inbox item, project update, task, budget line, decision, or shared summary.
+Jag kommer bara interagera med projektet genom Codex, sa hjalp aktivt till att halla filerna organiserade. Nar jag delar nya tankar, gor om dem till ratt sorts anteckning: inkorg, projektuppdatering, uppgift, budgetrad, beslut eller delad sammanfattning.
 
-Main entry point:
+Huvudingang:
 
 - `APARTMENT_HUB.md`
 
-GitHub repository:
+GitHub-arkiv:
 
 - https://github.com/dengh/vanadisvagen-2
 
-Important working files:
+Publik webbsida:
 
-- `00_Home/Inbox.md` - quick capture.
-- `00_Home/Task_Board.md` - active tasks.
-- `00_Home/Decision_Log.md` - decisions and open decisions.
-- `00_Home/Budget_Tracker.md` - estimates, quotes, and actuals.
-- `02_Shared/Shared_Notes.md` - thoughts to share with my girlfriend.
-- `02_Shared/Weekly_Check_In.md` - recurring discussion format.
+- https://dengh.github.io/vanadisvagen-2/
 
-Current project areas:
+Viktiga arbetsfiler:
 
-- Kitchen renovation.
-- Move-in and access day.
-- Paperwork, BRF, and admin.
-- Terrace and plants.
-- Lighting and electrical.
-- Storage and built-ins.
-- Bathroom and guest WC.
-- Bedrooms and workspace.
+- `00_Home/Inbox.md` - snabb infangning.
+- `00_Home/Task_Board.md` - aktiva uppgifter.
+- `00_Home/Decision_Log.md` - beslut och oppna beslut.
+- `00_Home/Budget_Tracker.md` - estimat, offerter och utfall.
+- `02_Shared/Shared_Notes.md` - tankar att dela med min flickvan.
+- `02_Shared/Weekly_Check_In.md` - aterkommande samtalsformat.
 
-Kitchen context:
+Nuvarande projektomraden:
 
-- We are considering a kitchen renovation.
-- There is a saved AI inspiration image showing a dark blue kitchen:
+- Koksrenovering.
+- Inflytt och tilltradesdag.
+- Papper, BRF och admin.
+- Terrass och vaxter.
+- Belysning och el.
+- Forvaring och platsbyggt.
+- Badrum och gast-WC.
+- Sovrum och arbetsplats.
+
+Kokskontext:
+
+- Vi overväger en koksrenovering.
+- Det finns en sparad AI-inspirationsbild med ett morkblatt kok:
   - `03_References/Images/kitchen-blue-ai-inspiration.png`
   - `03_References/Kitchen_Blue_Inspiration.md`
 
-Existing source material:
+Befintligt kallmaterial:
 
-- `2026-08-18_vanadisvagen_2` contains the main saved listing, photos, floor plan, and documents.
-- `2024-08-09_vanadisvagen_2_svenskfast_398702` contains older listing/reference material.
+- `2026-08-18_vanadisvagen_2` innehaller huvudsaklig sparad annons, bilder, planlosning och dokument.
+- `2024-08-09_vanadisvagen_2_svenskfast_398702` innehaller aldre annons-/referensmaterial.
 
-Preferred style:
+Onskad stil:
 
-- Keep things simple, practical, and easy to maintain.
-- Do not over-structure unless a project becomes complex.
-- Summaries for my girlfriend should be clear, warm, and easy to discuss.
+- Hall saker enkla, praktiska och latta att underhalla.
+- Overstrukturera inte om ett projekt inte har blivit komplext.
+- Sammanfattningar till min flickvan ska vara tydliga, varma och latta att prata om.

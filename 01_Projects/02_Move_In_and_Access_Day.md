@@ -1,40 +1,40 @@
-# Move-In and Access Day
+# Inflytt Och Tilltradesdag
 
-Status: Planning  
-Access date: 2026-12-21  
-Priority: High
+Status: Planeras
+Tilltrade: 2026-12-21
+Prioritet: Hog
 
-## Goal
+## Mal
 
-Make access day calm, useful, and well documented. Even if renovation timing is undecided, this is the day to measure, photograph, inspect, and prepare the first practical weeks.
+Gor tilltradesdagen lugn, anvandbar och val dokumenterad. Aven om renoveringstajming inte ar bestamd ar detta dagen for att mata, fotografera, inspektera och forbereda de forsta praktiska veckorna.
 
-## Access Day Checklist
+## Checklista For Tilltradesdagen
 
-- [ ] Keys received and tested.
-- [ ] Photograph every room, cabinet, appliance, wall, ceiling angle, radiator, window, and socket.
-- [ ] Photograph utility areas, fuse box, water shutoffs, ventilation, and storage.
-- [ ] Measure kitchen, bedrooms, storage, terrace, window widths, and ceiling heights.
-- [ ] Check appliance model numbers.
-- [ ] Test taps, drains, lights, sockets, heating, dishwasher, oven, fridge/freezer, washer/dryer.
-- [ ] Note immediate repairs or surprises.
-- [ ] Confirm mailbox, entry, waste sorting, storage, bike room, and laundry room.
+- [ ] Ta emot och testa nycklar.
+- [ ] Fotografera varje rum, skap, vitvara, vagg, takvinkel, radiator, fonster och eluttag.
+- [ ] Fotografera teknikytor, elcentral, vattenavstangning, ventilation och forvaring.
+- [ ] Mata kok, sovrum, forvaring, terrass, fonsterbredder och takhojder.
+- [ ] Kontrollera modellnummer pa vitvaror.
+- [ ] Testa kranar, avlopp, lampor, uttag, varme, diskmaskin, ugn, kyl/frys, tvattmaskin/torktumlare.
+- [ ] Notera direkta reparationer eller overaskningar.
+- [ ] Bekrafta brevlada, entre, avfallssortering, forrad, cykelrum och tvattstuga.
 
-## Before Access
+## Fore Tilltrade
 
-| Task | Owner | Due | Status | Notes |
+| Uppgift | Agare | Senast | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Prepare measurement kit | You | 2026-12-15 | Backlog | Tape measure or laser, phone charger, notebook. |
-| Create room-by-room photo checklist | You | 2026-12-01 | Next | Use project pages as prompts. |
-| Confirm handover time and key count | You | TBD | Waiting | Broker / seller. |
-| Decide whether to bring contractor for first look | Both | TBD | Backlog | Especially if kitchen timing matters. |
+| Forbered matkit | Du | 2026-12-15 | Backlog | Mattband eller laser, mobilladdare och anteckningar. |
+| Skapa fotolista rum for rum | Du | 2026-12-01 | Nasta | Anvand projektsidorna som stod. |
+| Bekrafta overlamningstid och antal nycklar | Du | TBD | Vantar | Maklare / saljare. |
+| Bestam om hantverkare ska folja med for forsta titt | Bada | TBD | Backlog | Sarskilt om kokstajming ar viktig. |
 
-## First Week
+## Forsta Veckan
 
-- Internet / Tele2 details.
-- Home insurance.
-- Cleaning supplies.
-- Basic tools.
-- Light bulbs.
-- Temporary furniture plan.
-- Address changes.
-- BRF introductions and practical rules.
+- Internet / Tele2-detaljer.
+- Hemforsakring.
+- Stadprodukter.
+- Basverktyg.
+- Glodlampor.
+- Tillfallig mobleringsplan.
+- Adressandringar.
+- BRF-introduktion och praktiska regler.

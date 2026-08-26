@@ -1,29 +1,29 @@
-# Bathroom and Guest WC
+# Badrum Och Gast-WC
 
-Status: Backlog  
-Priority: Low-Medium
+Status: Backlog
+Prioritet: Lag-Medium
 
-## Current Facts
+## Nuvarande Fakta
 
-- Bathroom has shower, vanity, mirror, WC, floor heating, recessed spotlights, and adjacent laundry area.
-- Guest WC is near the hall.
+- Badrummet har dusch, kommod, spegel, WC, golvvarme, infallda spotlights och intilliggande tvattdel.
+- Gast-WC ligger nara hallen.
 
-## Questions
+## Fragor
 
-- Are these rooms already fine, or do they need small upgrades?
-- Any signs of moisture, poor ventilation, weak lighting, or awkward storage?
-- What documentation exists for wet-room work?
+- Ar de har rummen redan bra, eller behovs sma uppgraderingar?
+- Finns tecken pa fukt, dalig ventilation, svag belysning eller opraktisk forvaring?
+- Vilken dokumentation finns for vatrum?
 
-## Access Day Checks
+## Kontroller Pa Tilltradesdagen
 
-- Test ventilation.
-- Photograph floor drain, shower area, vanity, laundry machines, and pipe access.
-- Check washer/dryer models.
-- Note storage needs.
+- Testa ventilation.
+- Fotografera golvbrunn, duschzon, kommod, tvattmaskiner och roratkomst.
+- Kontrollera modeller pa tvattmaskin och torktumlare.
+- Notera forvaringsbehov.
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Inspect and photograph bathroom details | You | 2026-12-21 | Scheduled | Include floor drain and laundry machines. |
-| Review wet-room documentation if available | You | TBD | Backlog | Relevant before any changes. |
+| Inspektera och fotografera badrumsdetaljer | Du | 2026-12-21 | Schemalagd | Ta med golvbrunn och tvattmaskiner. |
+| Ga igenom vatrumsdokumentation om den finns | Du | TBD | Backlog | Relevant fore andringar. |

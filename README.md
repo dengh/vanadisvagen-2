@@ -1,29 +1,30 @@
-# Vanadisvagen 2 Apartment Planning
+# Vanadisvagen 2
 
-This repository is the planning hub for our apartment at Vanadisvagen 2 in Stockholm.
+Det har arkivet ar planeringshubben for var lagenhet pa Vanadisvagen 2 i Stockholm.
 
-We get access on 2026-12-21. The repo keeps renovation ideas, move-in planning, documents, tasks, decisions, budgets, references, and shared notes in one place.
+Vi far tilltrade 2026-12-21. Har samlar vi renoveringsideer, inflyttningsplanering, dokument, uppgifter, beslut, budget, referenser och delade anteckningar.
 
-## Start Here
+## Borja Har
 
-- [Apartment Hub](APARTMENT_HUB.md)
-- [Quick Context For Codex](00_Home/Quick_Context_For_New_Chats.md)
-- [Shared Notes](02_Shared/Shared_Notes.md)
-- [Weekly Check-In](02_Shared/Weekly_Check_In.md)
+- [Webbsidan](https://dengh.github.io/vanadisvagen-2/)
+- [Projektkartan](APARTMENT_HUB.md)
+- [Snabbkontext for Codex](00_Home/Quick_Context_For_New_Chats.md)
+- [Delade anteckningar](02_Shared/Shared_Notes.md)
+- [Veckocheck](02_Shared/Weekly_Check_In.md)
 
-## Project Areas
+## Projektomraden
 
-- Kitchen renovation.
-- Move-in and access day.
-- Paperwork, BRF, and admin.
-- Terrace and plants.
-- Lighting and electrical.
-- Storage and built-ins.
-- Bathroom and guest WC.
-- Bedrooms and workspace.
+- Koksrenovering.
+- Inflytt och tilltradesdag.
+- Papper, BRF och admin.
+- Terrass och vaxter.
+- Belysning och el.
+- Forvaring och platsbyggt.
+- Badrum och gast-WC.
+- Sovrum och arbetsplats.
 
-## How We Use This
+## Sa Anvander Vi Det Har
 
-Codex helps maintain the project. New thoughts can be added through Codex and sorted into tasks, decisions, budget lines, project notes, or shared summaries.
+Codex hjalper till att halla ordning. Nya tankar kan lamnas till Codex och sorteras som uppgifter, beslut, budgetrader, projektanteckningar eller delade sammanfattningar.
 
-The source listing folders are preserved as reference material.
+De sparade annonsmapparna ligger kvar som referensmaterial.

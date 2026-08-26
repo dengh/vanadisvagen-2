@@ -1,32 +1,32 @@
-# Terrace and Plants
+# Terrass Och Vaxter
 
-Status: Backlog  
-Priority: Medium
+Status: Backlog
+Prioritet: Medium
 
-## Goal
+## Mal
 
-Turn the terrace into a useful outdoor room without creating maintenance stress.
+Gor terrassen till ett anvandbart uterum utan att skapa onodig skotselstress.
 
-## Ideas
+## Ideer
 
-- Lounge seating.
-- Dining option.
-- Planters with wind-tolerant greenery.
-- Lighting that works in winter.
-- Storage for cushions and tools.
-- Watering plan for travel weeks.
+- Loungeplatser.
+- Mojlighet att ata ute.
+- Planteringskarl med vindtaliga vaxter.
+- Belysning som fungerar vintertid.
+- Forvaring for dynor och verktyg.
+- Bevattningsplan for reseveckor.
 
-## Questions
+## Fragor
 
-- What rules does the BRF have for terrace furniture, planters, watering, and grill use?
-- Where is the sun strongest and windiest?
-- How much storage is available for winter?
-- Should terrace spending wait until spring 2027?
+- Vilka regler har BRF for terrassmobler, planteringar, bevattning och grill?
+- Var ar solen starkast och var blaser det mest?
+- Hur mycket vinterforvaring finns?
+- Ska terrasskostnader vanta till varen 2027?
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Photograph and measure terrace on access day | You | 2026-12-21 | Scheduled | Include railing, door, outlets, drainage. |
-| Ask BRF about terrace rules | You | TBD | Backlog | Add findings here. |
-| Create spring 2027 terrace plan | Both | 2027-02 | Backlog | Furniture, plants, lighting. |
+| Fotografera och mata terrassen pa tilltradesdagen | Du | 2026-12-21 | Schemalagd | Ta med racke, dorr, uttag och avrinning. |
+| Fraga BRF om terrassregler | Du | TBD | Backlog | Lagg svaren har. |
+| Skapa terrassplan for varen 2027 | Bada | 2027-02 | Backlog | Mobler, vaxter och belysning. |

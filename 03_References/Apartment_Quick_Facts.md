@@ -1,32 +1,32 @@
-# Apartment Quick Facts
+# Snabbfakta Om Lagenheten
 
-Source: saved 2026 listing material in `2026-08-18_vanadisvagen_2`.
+Kalla: sparat annonsmaterial fran 2026 i `2026-08-18_vanadisvagen_2`.
 
-## Basics
+## Grundfakta
 
-- Address: Vanadisvagen 2, 11346 Stockholm.
-- Area: Vasastan.
-- Apartment: 98 + 17 kvm.
-- Rooms: 4.
-- Floor: 6/6.
-- Elevator: to floor 5.
-- Monthly fee listed: 3,357 kr/month.
-- Monthly operating cost listed: 781 kr/month.
-- Association: BRF Mjolner 1.
-- Ownership: bostadsratt.
-- Storage: basement storage.
+- Adress: Vanadisvagen 2, 11346 Stockholm.
+- Omrade: Vasastan.
+- Lagenhet: 98 + 17 kvm.
+- Rum: 4.
+- Vaning: 6/6.
+- Hiss: till vaning 5.
+- Manadsavgift enligt annons: 3 357 kr/manad.
+- Driftkostnad enligt annons: 781 kr/manad.
+- Forening: BRF Mjolner 1.
+- Upplatelseform: bostadsratt.
+- Forrad: kallarforrad.
 
-## Layout Notes
+## Planlosningsnoteringar
 
-- Open kitchen and living room.
-- Large terrace connected to social area.
-- Three bedrooms.
-- Bathroom with laundry area.
-- Guest WC.
-- Built-in storage and bookshelf features.
+- Oppet kok och vardagsrum.
+- Stor terrass kopplad till social yta.
+- Tre sovrum.
+- Badrum med tvattdel.
+- Gast-WC.
+- Platsbyggd forvaring och bokhylla.
 
-## Useful Existing Folders
+## Anvandbara Befintliga Mappar
 
-- `2026-08-18_vanadisvagen_2/images` - listing images and floor plan.
-- `2026-08-18_vanadisvagen_2/documents` - listing PDFs, BRF annual report, statutes, energy declaration.
-- `2024-08-09_vanadisvagen_2_svenskfast_398702` - older saved listing/reference material.
+- `2026-08-18_vanadisvagen_2/images` - annonsbilder och planlosning.
+- `2026-08-18_vanadisvagen_2/documents` - PDF:er, arsstamma/arsredovisning, stadgar och energideklaration.
+- `2024-08-09_vanadisvagen_2_svenskfast_398702` - aldre sparat annons-/referensmaterial.

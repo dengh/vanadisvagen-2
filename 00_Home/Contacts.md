@@ -1,17 +1,17 @@
-# Contacts
+# Kontakter
 
-## Apartment
+## Lagenheten
 
-| Role | Name | Phone | Email | Notes |
+| Roll | Namn | Telefon | E-post | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Broker | Johan du Rietz | 0708-80 07 99 | durietz@ettmakleri.se | From 2026 listing. |
-| BRF | BRF Mjolner 1 | TBD | TBD | Website noted in listing: https://mjolner.bostadsratterna.se/ |
+| Maklare | Johan du Rietz | 0708-80 07 99 | durietz@ettmakleri.se | Fran 2026-annonsen. |
+| BRF | BRF Mjolner 1 | TBD | TBD | Hemsida enligt annons: https://mjolner.bostadsratterna.se/ |
 
-## Contractors and Suppliers
+## Hantverkare Och Leverantorer
 
-| Category | Name | Contact | Status | Notes |
+| Kategori | Namn | Kontakt | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Kitchen | TBD | TBD | To find | Cabinet fronts, countertop, plumbing, electrical. |
-| Electrician | TBD | TBD | To find | Lighting, sockets, dimmers. |
-| Carpenter | TBD | TBD | To find | Built-ins, storage, trim. |
-| Painter | TBD | TBD | To find | Walls, doors, cabinets if refreshing. |
+| Kok | TBD | TBD | Att hitta | Luckor, bankskiva, VVS och el. |
+| Elektriker | TBD | TBD | Att hitta | Belysning, uttag och dimmers. |
+| Snickare | TBD | TBD | Att hitta | Platsbyggt, forvaring och detaljer. |
+| Malare | TBD | TBD | Att hitta | Vaggar, dorrar och eventuellt koksfronter. |

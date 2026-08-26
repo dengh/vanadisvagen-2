@@ -1,33 +1,33 @@
-# Storage and Built-Ins
+# Forvaring Och Platsbyggt
 
-Status: Backlog  
-Priority: Medium
+Status: Backlog
+Prioritet: Medium
 
-## Goal
+## Mal
 
-Understand existing storage before buying furniture or planning built-ins.
+Forsta befintlig forvaring innan vi koper mobler eller planerar platsbyggt.
 
-## Areas
+## Omraden
 
-- Hall storage.
-- Built-in bookshelf.
-- Bedroom wardrobes.
-- Kitchen storage.
-- Storage/wine cabinet area behind dining place.
-- Basement storage.
-- Terrace storage.
+- Hallforvaring.
+- Platsbyggd bokhylla.
+- Garderober i sovrum.
+- Koksforvaring.
+- Forvaring/vinkyl bakom matplats.
+- Kallarforrad.
+- Terrassforvaring.
 
-## Questions
+## Fragor
 
-- Which storage is already excellent?
-- Where will daily clutter naturally collect?
-- Do we need a carpenter or just better internal organizers?
-- What should be hidden vs displayed?
+- Vilken forvaring ar redan riktigt bra?
+- Var kommer vardagsstök naturligt att samlas?
+- Behover vi snickare eller bara battre insatser och organisering?
+- Vad ska gommas och vad ska synas?
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Photograph every cabinet and wardrobe open | You | 2026-12-21 | Scheduled | Helps plan before moving boxes. |
-| Measure basement storage | You | 2026-12-21 | Scheduled | Include door width. |
-| Make first storage pain-point list | Both | January 2027 | Backlog | Revisit after living there for a few weeks. |
+| Fotografera alla skap och garderober oppna | Du | 2026-12-21 | Schemalagd | Hjalper oss planera innan flyttladorna kommer. |
+| Mata kallarforrad | Du | 2026-12-21 | Schemalagd | Inkludera dorrbredd. |
+| Gora forsta listan over forvaringsproblem | Bada | Januari 2027 | Backlog | Se over igen efter nagra veckor i lagenheten. |

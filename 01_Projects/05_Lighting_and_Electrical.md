@@ -1,36 +1,36 @@
-# Lighting and Electrical
+# Belysning Och El
 
-Status: Backlog  
-Priority: Medium
+Status: Backlog
+Prioritet: Medium
 
-## Goal
+## Mal
 
-Make the apartment feel warm and practical in winter, especially because access is just before Christmas.
+Fa lagenheten att kannas varm och praktisk under vintern, sarskilt eftersom tilltrade sker precis fore jul.
 
-## Areas To Review
+## Omraden Att Se Over
 
-- Kitchen island pendants.
-- Work lighting in kitchen.
-- Living room lighting near fireplace and bookshelves.
-- Dining area.
-- Hallway.
-- Bedrooms and workspace.
-- Terrace lighting.
-- Dimmer and switch placement.
+- Pendlar ovanfor kokson.
+- Arbetsljus i koket.
+- Vardagsrumsbelysning nara eldstad och bokhyllor.
+- Matplats.
+- Hall.
+- Sovrum och arbetsplats.
+- Terrassbelysning.
+- Placering av dimmers och brytare.
 
-## Access Day Notes To Collect
+## Att Samla Pa Tilltradesdagen
 
-- Socket locations.
-- Switch locations.
-- Existing fixture types.
-- Bulb temperatures.
-- Places that feel too dark.
-- Any smart-home setup from previous owner.
+- Placering av eluttag.
+- Placering av brytare.
+- Befintliga armaturtyper.
+- Ljuskallornas temperatur.
+- Platser som kanns for morka.
+- Eventuell smart hem-installation fran tidigare agare.
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Make lighting photo map | You | 2026-12-21 | Scheduled | Photograph each fixture and switch. |
-| List quick winter lighting fixes | Both | January 2027 | Backlog | Lamps, bulbs, dimmers. |
-| Decide whether an electrician is needed | Both | TBD | Backlog | Depends on kitchen and fixture changes. |
+| Gor fotokarta over belysning | Du | 2026-12-21 | Schemalagd | Fotografera varje armatur och brytare. |
+| Lista snabba vinterfix for ljus | Bada | Januari 2027 | Backlog | Lampor, ljuskallor och dimmers. |
+| Bestam om elektriker behovs | Bada | TBD | Backlog | Beror pa kok och armaturbyten. |

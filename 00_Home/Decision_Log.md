@@ -1,16 +1,17 @@
-# Decision Log
+# Beslutslogg
 
-Use this whenever a choice becomes settled. The goal is to remember why you chose something, especially when prices, timelines, or opinions change later.
+Anvand den har nar ett val blir bestamt. Malet ar att komma ihag varfor ni valde nagot, sarskilt nar priser, tidsplaner eller asikter andras senare.
 
-| Date | Decision | Project | Reason | Owner | Revisit? |
+| Datum | Beslut | Projekt | Varfor | Agare | Omprovas? |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-26 | Use this folder as the apartment planning hub | Overall | Keeps references, project notes, decisions, and shared thoughts in one place | You | No |
-| 2026-08-26 | Keep the apartment project in a public GitHub repository | Overall | Makes the full project easy to access, share, version, and later publish through GitHub Pages | You | If privacy needs change |
+| 2026-08-26 | Anvand den har mappen som planeringshub for lagenheten | Helheten | Haller referenser, projektanteckningar, beslut och delade tankar pa ett stalle | Du | Nej |
+| 2026-08-26 | Halla lagenhetsprojektet i ett publikt GitHub-arkiv | Helheten | Gor hela projektet latt att komma at, dela, versionshantera och senare publicera via GitHub Pages | Du | Om integritetsbehov andras |
+| 2026-08-26 | Publicera en svensk HTML-startsida via GitHub Pages | Delning | Ger flickvannen en enkel sida att navigera utan att behova lasa hela filstrukturen | Du | Nar sidan behover mer innehall |
 
-## Open Decisions
+## Oppna Beslut
 
-| Decision Needed | Project | Options | Needed By | Notes |
+| Beslut Som Behovs | Projekt | Alternativ | Behovs Senast | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Kitchen timing | Kitchen | Before move-in / after move-in / staged | 2026-09-30 | Main dependency for budget and contractor planning. |
-| Kitchen look | Kitchen | Keep current / dark blue fronts / partial refresh / full remodel | TBD | Blue concept saved as inspiration. |
-| First spending priorities | Overall | Kitchen / lighting / storage / terrace / move-in basics | TBD | Useful before requesting quotes. |
+| Tajming for kok | Kok | Fore inflytt / efter inflytt / etapper | 2026-09-30 | Viktigast for budget och hantverksplanering. |
+| Koksuttryck | Kok | Behall nuvarande / morkbla fronter / delvis uppdatering / full renovering | TBD | Bla koncept sparat som inspiration. |
+| Forsta utgiftsprioriteringar | Helheten | Kok / belysning / forvaring / terrass / inflyttningsbas | TBD | Bra att ha innan offerter begars in. |

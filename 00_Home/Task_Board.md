@@ -1,31 +1,31 @@
-# Task Board
+# Uppgiftstavla
 
-Status values: `Backlog`, `Next`, `Waiting`, `Scheduled`, `Done`.
+Statusvarden: `Backlog`, `Nasta`, `Vantar`, `Schemalagd`, `Klar`.
 
-## Next
+## Nasta
 
-| Task | Project | Owner | Due | Status | Notes |
+| Uppgift | Projekt | Agare | Senast | Status | Anteckningar |
 | --- | --- | --- | --- | --- | --- |
-| Make first priority list: must-do / nice-to-have / later | Overall | Both | 2026-09-15 | Next | Use the project pages as prompts. |
-| Decide renovation timing for kitchen | Kitchen | Both | 2026-09-30 | Next | Before move-in vs after move-in vs staged. |
-| Create access-day measurement checklist | Move-in | You | 2026-12-01 | Next | Include kitchen, storage, terrace, windows, sockets. |
+| Gor forsta prioriteringen: maste / vill ha / senare | Helheten | Bada | 2026-09-15 | Nasta | Anvand projektsidorna som stod. |
+| Bestam tajming for koksrenovering | Kok | Bada | 2026-09-30 | Nasta | Fore inflytt, efter inflytt eller etapper. |
+| Skapa matlista for tilltradesdagen | Inflytt | Du | 2026-12-01 | Nasta | Inkludera kok, forvaring, terrass, fonster och eluttag. |
 
 ## Backlog
 
-| Task | Project | Owner | Due | Status | Notes |
+| Uppgift | Projekt | Agare | Senast | Status | Anteckningar |
 | --- | --- | --- | --- | --- | --- |
-| Collect three kitchen contractor or cabinet supplier options | Kitchen | TBD | TBD | Backlog | Ask friends, BRF group, local recommendations. |
-| Build first renovation budget | Budget | You | TBD | Backlog | Use rough ranges first, then replace with quotes. |
-| List BRF approval questions | Admin | You | TBD | Backlog | Kitchen ventilation, plumbing, electrical, terrace rules. |
-| Plan first-week essentials | Move-in | Both | TBD | Backlog | Keys, utilities, internet, insurance, cleaning, tools. |
+| Samla tre alternativ for kokshantverkare eller koksleverantor | Kok | TBD | TBD | Backlog | Fraga vanner, BRF och lokala rekommendationer. |
+| Bygg forsta renoveringsbudgeten | Budget | Du | TBD | Backlog | Borja med grova spann och ersatt med offerter senare. |
+| Lista fragor for BRF-godkannande | Admin | Du | TBD | Backlog | Koksventilation, VVS, el och terrassregler. |
+| Planera sadant som behovs for forsta veckan | Inflytt | Bada | TBD | Backlog | Nycklar, el, internet, forsakring, stadning och verktyg. |
 
-## Waiting
+## Vantar
 
-| Task | Project | Owner | Waiting For | Status | Notes |
+| Uppgift | Projekt | Agare | Vantar Pa | Status | Anteckningar |
 | --- | --- | --- | --- | --- | --- |
-| Confirm final handover details | Admin | You | Broker / seller | Waiting | Access date: 2026-12-21. |
+| Bekrafta slutliga overlamningsdetaljer | Admin | Du | Maklare / saljare | Vantar | Tilltrade: 2026-12-21. |
 
-## Done
+## Klart
 
-| Task | Project | Owner | Done Date | Status | Notes |
+| Uppgift | Projekt | Agare | Klart Datum | Status | Anteckningar |
 | --- | --- | --- | --- | --- | --- |

@@ -1,38 +1,38 @@
-# Bedrooms and Workspace
+# Sovrum Och Arbetsplats
 
-Status: Backlog  
-Priority: Medium
+Status: Backlog
+Prioritet: Medium
 
-## Goal
+## Mal
 
-Decide how the three bedrooms should work for sleeping, guests, work, and storage.
+Bestam hur de tre sovrummen ska fungera for somn, gaster, arbete och forvaring.
 
-## Possible Uses
+## Mojliga Anvandningar
 
-- Main bedroom.
-- Office.
-- Guest room.
-- Future flexible room.
-- Wardrobe / storage support.
+- Sovrum.
+- Kontor.
+- Gastrum.
+- Framtida flexrum.
+- Garderob / extra forvaring.
 
-## Questions
+## Fragor
 
-- Do both of you need a work-from-home spot?
-- Which room gets the best light for work?
-- What furniture should wait until after measuring?
-- Are existing wardrobes enough?
+- Behover ni bada en plats for hemarbete?
+- Vilket rum har bast ljus for jobb?
+- Vilka mobler borde vanta tills efter matning?
+- Racker befintliga garderober?
 
-## Access Day Measurements
+## Matt Pa Tilltradesdagen
 
-- Room dimensions.
-- Window dimensions.
-- Wardrobe interiors.
-- Socket locations.
-- Door swing and radiator positions.
+- Rumsmatt.
+- Fonstermatt.
+- Garderobernas innermatt.
+- Placering av eluttag.
+- Dorrsving och radiatorplacering.
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Photograph and measure all bedrooms | You | 2026-12-21 | Scheduled | Include wardrobes open. |
-| Draft room-use plan | Both | January 2027 | Backlog | Let it stay flexible at first. |
+| Fotografera och mata alla sovrum | Du | 2026-12-21 | Schemalagd | Fotografera garderober oppna. |
+| Skissa rumsanvandning | Bada | Januari 2027 | Backlog | Hall planen flexibel i borjan. |

@@ -1,16 +1,16 @@
-# Budget Tracker
+# Budget
 
-Use rough numbers early. Replace with quotes when you have them.
+Anvand grova siffror tidigt. Ersatt dem med offerter nar de finns.
 
-| Item | Project | Estimate Low | Estimate High | Quote / Actual | Status | Notes |
+| Post | Projekt | Lag Estimat | Hogt Estimat | Offert / Utfall | Status | Anteckningar |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| Kitchen renovation | Kitchen | TBD | TBD | TBD | Exploring | Scope not decided yet. |
-| Move-in costs | Move-in | TBD | TBD | TBD | Planning | Moving, cleaning, small tools, setup. |
-| Lighting improvements | Lighting | TBD | TBD | TBD | Backlog | Fixtures, dimmers, electrician if needed. |
-| Terrace setup | Terrace | TBD | TBD | TBD | Backlog | Furniture, planters, irrigation, winter storage. |
+| Koksrenovering | Kok | TBD | TBD | TBD | Utforskas | Omfattning inte bestamd. |
+| Inflyttningskostnader | Inflytt | TBD | TBD | TBD | Planeras | Flytt, stadning, smaverktyg och startprylar. |
+| Belysningsforbattringar | Belysning | TBD | TBD | TBD | Backlog | Armaturer, dimmers och elektriker vid behov. |
+| Terrass | Terrass | TBD | TBD | TBD | Backlog | Mobler, planteringskarl, bevattning och vinterforvaring. |
 
-## Budget Notes
+## Budgetanteckningar
 
-- Separate `must-do`, `quality-of-life`, and `dream` costs.
-- Keep quote PDFs, screenshots, and emails in the relevant project folder or reference folder.
-- Add assumptions next to every estimate so future-you knows what the number included.
+- Separera `maste`, `vardagslyx` och `drom`.
+- Spara offert-PDF:er, skarmbilder och mejl i ratt projektmapp eller referensmapp.
+- Skriv antaganden bredvid varje estimat sa framtida du vet vad siffran inkluderade.

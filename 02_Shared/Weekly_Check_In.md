@@ -1,35 +1,35 @@
-# Weekly Check-In
+# Veckocheck
 
-Date:
+Datum:
 
-## 1. What Changed This Week?
+## 1. Vad Har Andrats Den Har Veckan?
 
-- 
+-
 
-## 2. Decisions We Need
+## 2. Beslut Vi Behover Ta
 
-| Decision | By When | Notes |
+| Beslut | Senast | Anteckningar |
 | --- | --- | --- |
 
-## 3. Tasks For Next Week
+## 3. Uppgifter Till Nasta Vecka
 
-| Task | Owner | Due | Notes |
+| Uppgift | Agare | Senast | Anteckningar |
 | --- | --- | --- | --- |
 
-## 4. Money Check
+## 4. Pengakoll
 
-- New estimates:
-- New quotes:
-- Anything that changes priorities:
+- Nya estimat:
+- Nya offerter:
+- Nagra saker som andrar prioriteringar:
 
-## 5. Mood Check
+## 5. Magkansla
 
-- What feels exciting?
-- What feels stressful?
-- What should we simplify?
+- Vad kanns roligt?
+- Vad kanns stressigt?
+- Vad borde vi forenkla?
 
-## 6. Notes To Move Elsewhere
+## 6. Anteckningar Att Flytta
 
-- Move decisions to [Decision Log](../00_Home/Decision_Log.md).
-- Move tasks to [Task Board](../00_Home/Task_Board.md).
-- Move raw ideas to project pages or [Inbox](../00_Home/Inbox.md).
+- Flytta beslut till [Beslutslogg](../00_Home/Decision_Log.md).
+- Flytta uppgifter till [Uppgiftstavla](../00_Home/Task_Board.md).
+- Flytta losa ideer till projektsidor eller [Inkorg](../00_Home/Inbox.md).

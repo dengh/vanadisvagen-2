@@ -1,0 +1,648 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vanadisvagen 2</title>
+  <meta name="description" content="Planering, projekt och inspiration for lagenheten pa Vanadisvagen 2.">
+  <style>
+    :root {
+      --ink: #1e2528;
+      --muted: #697174;
+      --line: #d9dddb;
+      --paper: #faf8f3;
+      --white: #fffdf8;
+      --blue: #182331;
+      --blue-soft: #263849;
+      --green: #69785f;
+      --brass: #b68445;
+      --rose: #b96f5a;
+      --shadow: 0 18px 45px rgba(30, 37, 40, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.55;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 4px;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      padding: 14px clamp(18px, 4vw, 56px);
+      border-bottom: 1px solid rgba(30, 37, 40, 0.12);
+      background: rgba(250, 248, 243, 0.92);
+      backdrop-filter: blur(14px);
+    }
+
+    .brand {
+      display: flex;
+      flex-direction: column;
+      min-width: 160px;
+      font-weight: 750;
+      letter-spacing: 0;
+    }
+
+    .brand span {
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 8px 16px;
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-weight: 650;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+      min-height: min(760px, calc(100vh - 58px));
+      border-bottom: 1px solid var(--line);
+    }
+
+    .hero-copy {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 28px;
+      padding: clamp(42px, 7vw, 96px) clamp(22px, 5vw, 72px);
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    h1 {
+      max-width: 680px;
+      font-size: clamp(3rem, 8vw, 7.4rem);
+      font-weight: 850;
+    }
+
+    h2 {
+      font-size: clamp(2rem, 4vw, 3.5rem);
+      font-weight: 820;
+    }
+
+    h3 {
+      font-size: 1.15rem;
+      font-weight: 780;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .lead {
+      max-width: 700px;
+      color: #3f484b;
+      font-size: clamp(1.12rem, 2vw, 1.45rem);
+    }
+
+    .meta-row {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      max-width: 700px;
+    }
+
+    .meta {
+      min-height: 92px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      background: var(--white);
+    }
+
+    .meta strong {
+      display: block;
+      margin-bottom: 2px;
+      font-size: 1.2rem;
+    }
+
+    .meta span {
+      color: var(--muted);
+      font-size: 0.88rem;
+      font-weight: 650;
+    }
+
+    .hero-image {
+      position: relative;
+      min-height: 520px;
+      overflow: hidden;
+      background: var(--blue);
+    }
+
+    .hero-image img {
+      width: 100%;
+      height: 100%;
+      min-height: inherit;
+      object-fit: cover;
+      display: block;
+    }
+
+    .image-label {
+      position: absolute;
+      left: 18px;
+      bottom: 18px;
+      max-width: calc(100% - 36px);
+      padding: 10px 12px;
+      color: var(--white);
+      background: rgba(24, 35, 49, 0.82);
+      font-size: 0.9rem;
+      font-weight: 650;
+    }
+
+    main {
+      display: flex;
+      flex-direction: column;
+    }
+
+    section {
+      padding: clamp(44px, 7vw, 88px) clamp(18px, 4vw, 56px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-inner {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 28px;
+    }
+
+    .section-head p {
+      max-width: 520px;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .card {
+      min-height: 190px;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--white);
+      box-shadow: 0 1px 0 rgba(30, 37, 40, 0.04);
+    }
+
+    .card p {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      min-height: 26px;
+      margin-bottom: 14px;
+      padding: 2px 9px;
+      border-radius: 999px;
+      color: var(--white);
+      background: var(--green);
+      font-size: 0.76rem;
+      font-weight: 760;
+    }
+
+    .status.plan {
+      background: var(--brass);
+    }
+
+    .status.wait {
+      background: var(--rose);
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+      gap: clamp(22px, 4vw, 52px);
+      align-items: start;
+    }
+
+    .panel {
+      padding: clamp(20px, 3vw, 30px);
+      border: 1px solid var(--line);
+      background: var(--white);
+    }
+
+    .panel.dark {
+      color: var(--white);
+      background: var(--blue);
+      border-color: var(--blue);
+      box-shadow: var(--shadow);
+    }
+
+    .panel.dark p,
+    .panel.dark li {
+      color: rgba(255, 253, 248, 0.78);
+    }
+
+    .list {
+      display: grid;
+      gap: 12px;
+      margin: 18px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .list li {
+      padding: 13px 0;
+      border-top: 1px solid rgba(105, 113, 116, 0.24);
+      color: #3f484b;
+    }
+
+    .panel.dark .list li {
+      border-top-color: rgba(255, 253, 248, 0.18);
+    }
+
+    .task-table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      background: var(--white);
+    }
+
+    th,
+    td {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+      font-size: 0.95rem;
+    }
+
+    th {
+      color: var(--muted);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 14px;
+      align-items: stretch;
+    }
+
+    .gallery figure {
+      margin: 0;
+      border: 1px solid var(--line);
+      background: var(--white);
+    }
+
+    .gallery img {
+      width: 100%;
+      height: 100%;
+      min-height: 280px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .gallery figcaption {
+      padding: 12px 14px;
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-weight: 650;
+    }
+
+    .links {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .link-card {
+      min-height: 92px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--white);
+      text-decoration: none;
+    }
+
+    .link-card strong {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .link-card span {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    footer {
+      padding: 28px clamp(18px, 4vw, 56px);
+      color: var(--muted);
+      background: var(--ink);
+    }
+
+    footer a {
+      color: var(--white);
+    }
+
+    @media (max-width: 920px) {
+      .topbar {
+        position: static;
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      nav {
+        justify-content: flex-start;
+      }
+
+      .hero,
+      .split,
+      .gallery {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        min-height: auto;
+      }
+
+      .hero-image {
+        min-height: 430px;
+      }
+
+      .grid,
+      .links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 620px) {
+      .meta-row,
+      .grid,
+      .links {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 3rem;
+      }
+
+      th,
+      td {
+        padding: 12px 8px;
+        font-size: 0.88rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      Vanadisvagen 2
+      <span>Lagenhetsprojektet</span>
+    </div>
+    <nav aria-label="Huvudnavigation">
+      <a href="#projekt">Projekt</a>
+      <a href="#nasta">Nasta steg</a>
+      <a href="#kok">Kok</a>
+      <a href="#delat">Delat</a>
+      <a href="https://github.com/dengh/vanadisvagen-2">GitHub</a>
+    </nav>
+  </header>
+
+  <div class="hero">
+    <div class="hero-copy">
+      <div>
+        <h1>Vanadisvagen 2</h1>
+        <p class="lead">En samlad plats for renoveringsideer, inflyttning, beslut, budget, bilder och sadant vi vill prata igenom tillsammans.</p>
+      </div>
+      <div class="meta-row" aria-label="Snabbfakta">
+        <div class="meta">
+          <strong>21 dec 2026</strong>
+          <span>Tilltrade</span>
+        </div>
+        <div class="meta">
+          <strong>98 + 17 kvm</strong>
+          <span>Lagenhet enligt annons</span>
+        </div>
+        <div class="meta">
+          <strong>8 projekt</strong>
+          <span>Startade planeringsspar</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="03_References/Images/kitchen-blue-ai-inspiration.png" alt="AI-inspiration for ett morkblatt kok med traffdetaljer och stenbankskiva">
+      <div class="image-label">Koksinspiration: morkblatt, varmt tra, massing och sten</div>
+    </div>
+  </div>
+
+  <main>
+    <section id="projekt">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Projekt</h2>
+          <p>Det har ar de forsta omradena. Vissa ar riktiga projekt redan nu, andra ar bara parkerade tills vi vet mer.</p>
+        </div>
+        <div class="grid">
+          <article class="card">
+            <span class="status">Utforskas</span>
+            <h3>Koksrenovering</h3>
+            <p>Morkbla riktning, omfattning, budget, BRF-fragor och tajming fore eller efter inflytt.</p>
+          </article>
+          <article class="card">
+            <span class="status plan">Planeras</span>
+            <h3>Inflytt och tilltrade</h3>
+            <p>Checklistor for foton, matt, nycklar, tester och forsta veckan i lagenheten.</p>
+          </article>
+          <article class="card">
+            <span class="status plan">Aktivt</span>
+            <h3>Papper och BRF</h3>
+            <p>Stadgar, arsstamma, kontaktuppgifter, tillstandsfragor och praktiska regler.</p>
+          </article>
+          <article class="card">
+            <span class="status wait">Vantar</span>
+            <h3>Terrass och vaxter</h3>
+            <p>Utemobler, planteringar, belysning och sadant som troligen passar battre till varen.</p>
+          </article>
+          <article class="card">
+            <span class="status wait">Vantar</span>
+            <h3>Belysning och el</h3>
+            <p>Vinterljus, dimmers, armaturer, arbetsljus i koket och eventuellt elektrikerbehov.</p>
+          </article>
+          <article class="card">
+            <span class="status wait">Vantar</span>
+            <h3>Forvaring och platsbyggt</h3>
+            <p>Hall, garderober, bokhylla, kallarforrad, koksforvaring och smarta vardagslosningar.</p>
+          </article>
+          <article class="card">
+            <span class="status wait">Vantar</span>
+            <h3>Badrum och gast-WC</h3>
+            <p>Inspektion, dokumentation, ventilation, tvattdel och eventuella mindre forbattrningar.</p>
+          </article>
+          <article class="card">
+            <span class="status wait">Vantar</span>
+            <h3>Sovrum och arbetsplats</h3>
+            <p>Hur rummen ska anvandas for somn, jobb, gaster, forvaring och flexibilitet.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="nasta">
+      <div class="section-inner split">
+        <div>
+          <div class="section-head">
+            <h2>Nasta steg</h2>
+          </div>
+          <table class="task-table">
+            <thead>
+              <tr>
+                <th>Uppgift</th>
+                <th>Omrade</th>
+                <th>Nar</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Gora forsta prioriteringen: maste, vill ha, senare</td>
+                <td>Helheten</td>
+                <td>September</td>
+              </tr>
+              <tr>
+                <td>Bestamma om koket ska planeras for renovering direkt</td>
+                <td>Kok</td>
+                <td>September</td>
+              </tr>
+              <tr>
+                <td>Lista vilka fragor som maste till BRF</td>
+                <td>Admin</td>
+                <td>Oktober</td>
+              </tr>
+              <tr>
+                <td>Skapa mat- och fotolista for tilltradesdagen</td>
+                <td>Inflytt</td>
+                <td>1 december</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <aside class="panel dark">
+          <h2>Oppna beslut</h2>
+          <ul class="list">
+            <li>Ska koket renoveras fore inflytt, efter inflytt eller i etapper?</li>
+            <li>Vilka projekt ar viktigast for att lagenheten snabbt ska kannas som var?</li>
+            <li>Vilken budgetniva kanns rimlig innan vi borjar ta in offerter?</li>
+            <li>Vad ska ligga pa den publika sidan och vad ska bara vara arbetsmaterial?</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section id="kok">
+      <div class="section-inner">
+        <div class="section-head">
+          <h2>Koket</h2>
+          <p>Den tydligaste iden just nu: ett morkblatt kok som fortfarande kanns varmt tack vare tra, massing och sten.</p>
+        </div>
+        <div class="gallery">
+          <figure>
+            <img src="03_References/Images/kitchen-blue-ai-inspiration.png" alt="Morkblatt kok som inspirationsbild">
+            <figcaption>AI-inspiration for bla koksriktning.</figcaption>
+          </figure>
+          <figure>
+            <img src="2026-08-18_vanadisvagen_2/images/37_Planlosning_23255887.jpg" alt="Planlosning for lagenheten">
+            <figcaption>Planlosning fran den sparade annonsen.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section id="delat">
+      <div class="section-inner split">
+        <div class="panel">
+          <h2>Att prata om</h2>
+          <ul class="list">
+            <li>Vad skulle gora att lagenheten kanns som var snabbt?</li>
+            <li>Vad borde vi absolut inte stressa fram?</li>
+            <li>Vilka tre forandringar skulle ge mest vardagsnytta?</li>
+            <li>Vad ar vi bada lite hemligt peppade pa?</li>
+          </ul>
+        </div>
+        <div>
+          <div class="section-head">
+            <h2>Arbetsfiler</h2>
+          </div>
+          <div class="links">
+            <a class="link-card" href="APARTMENT_HUB.md">
+              <strong>Projektkarta</strong>
+              <span>Alla omraden och snabblankar.</span>
+            </a>
+            <a class="link-card" href="00_Home/Task_Board.md">
+              <strong>Uppgifter</strong>
+              <span>Aktivt, backlog, vantan och klart.</span>
+            </a>
+            <a class="link-card" href="00_Home/Decision_Log.md">
+              <strong>Beslut</strong>
+              <span>Vad vi bestamt och varfor.</span>
+            </a>
+            <a class="link-card" href="02_Shared/Shared_Notes.md">
+              <strong>Delade tankar</strong>
+              <span>En mjukare yta for samtal.</span>
+            </a>
+            <a class="link-card" href="00_Home/Budget_Tracker.md">
+              <strong>Budget</strong>
+              <span>Grova estimat, offerter och faktiskt utfall.</span>
+            </a>
+            <a class="link-card" href="2026-08-18_vanadisvagen_2/annons_sammanstallning.md">
+              <strong>Annonsmaterial</strong>
+              <span>Sammanstallning fran sparad annons.</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Uppdateras via Codex. Full historik finns pa <a href="https://github.com/dengh/vanadisvagen-2">GitHub</a>.</p>
+  </footer>
+</body>
+</html>

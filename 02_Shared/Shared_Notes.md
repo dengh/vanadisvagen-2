@@ -1,27 +1,27 @@
-# Shared Notes
+# Delade Anteckningar
 
-Use this when you want to share thoughts with each other without turning everything into a task. It should feel more like a calm conversation space than a project tracker.
+Anvand den har nar ni vill dela tankar med varandra utan att gora allt till uppgifter. Den ska kannas mer som en lugn samtalsyta an en projekttracker.
 
-## Things I Am Excited About
+## Saker Jag Ar Peppad Pa
 
-- The kitchen could become a really strong visual center of the apartment.
-- The terrace has huge potential as an outdoor room.
+- Koket kan bli ett riktigt starkt visuellt centrum i lagenheten.
+- Terrassen har stor potential som uterum.
 
-## Things I Am Unsure About
+## Saker Jag Ar Osaker Pa
 
-- Whether to renovate before moving in or live there first.
-- How much to spend early vs after we understand the apartment better.
+- Om vi ska renovera fore inflytt eller bo in oss forst.
+- Hur mycket vi ska lagga tidigt jamfort med efter att vi forstar lagenheten battre.
 
-## Questions For Us
+## Fragor For Oss
 
-- What would make this apartment feel like ours quickly?
-- What should we avoid rushing?
-- Which changes would improve everyday life the most?
-- What are we each secretly hoping for?
+- Vad skulle gora att lagenheten snabbt kanns som var?
+- Vad borde vi undvika att stressa fram?
+- Vilka forandringar skulle forbättra vardagen mest?
+- Vad hoppas vi var och en lite hemligt pa?
 
-## For Our Next Conversation
+## Till Nasta Samtal
 
-- [ ] Pick top three projects.
-- [ ] Agree on what can wait.
-- [ ] Decide whether kitchen planning starts now.
-- [ ] Choose a weekly check-in time.
+- [ ] Valj topp tre projekt.
+- [ ] Kom overens om vad som kan vanta.
+- [ ] Bestam om koksplaneringen borjar nu.
+- [ ] Valj en tid for veckocheck.

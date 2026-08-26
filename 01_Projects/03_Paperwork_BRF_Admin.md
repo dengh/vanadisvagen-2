@@ -1,42 +1,42 @@
-# Paperwork, BRF, and Admin
+# Papper, BRF Och Admin
 
-Status: Active  
-Priority: High
+Status: Aktivt
+Prioritet: Hog
 
-## Key Facts From Listing
+## Nyckelfakta Fran Annons
 
-- Association: BRF Mjolner 1.
-- Monthly fee listed: 3,357 kr/month.
-- Mandatory Tele2 group agreement supplement noted: 194 kr/month.
-- Building: 1926/1995.
-- Elevator to floor 5; apartment is on floor 6.
-- Storage: basement storage.
-- Energy declaration: 125 kWh/kvm/year, performed 2018-04-22.
+- Forening: BRF Mjolner 1.
+- Manadsavgift enligt annons: 3 357 kr/manad.
+- Obligatoriskt Tele2-gruppavtal enligt annons: 194 kr/manad.
+- Byggar: 1926/1995.
+- Hiss till vaning 5; lagenheten ligger pa vaning 6.
+- Forrad: kallarforrad.
+- Energideklaration: 125 kWh/kvm/ar, utford 2018-04-22.
 
-## Documents Already Saved
+## Dokument Som Redan Ar Sparade
 
-The 2026 listing folder contains:
+Annonsmappen fran 2026 innehaller:
 
-- Bid process information.
-- Fixed and loose property document.
-- Buyer inspection duty document.
-- Sale process document.
-- Annual report 2025.
-- Association statutes.
-- Energy declaration.
+- Information om budgivning.
+- Fast och los egendom.
+- Undersokningsplikt.
+- Forsaljningsprocess.
+- Arsredovisning 2025.
+- Stadgar.
+- Energideklaration.
 
-## Admin Questions
+## Adminfragor
 
-- What renovation work needs prior approval?
-- Are there rules for work hours, contractors, elevator/stair use, and debris removal?
-- Are there terrace-specific rules for plants, furniture, wind protection, grills, or irrigation?
-- How does waste sorting change in 2027?
-- What are the practical move-in rules?
+- Vilket renoveringsarbete kraver forhandsgodkannande?
+- Finns regler for arbetstider, hantverkare, hiss/trapphus och bortforsling?
+- Finns terrassregler for vaxter, mobler, vindskydd, grill eller bevattning?
+- Hur andras avfallssorteringen 2027?
+- Vilka praktiska inflyttningsregler galler?
 
-## Tasks
+## Uppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Read association statutes for renovation rules | You | September 2026 | Backlog | Especially kitchen, wet rooms, ventilation, terrace. |
-| Save BRF contact details | You | September 2026 | Backlog | Add to Contacts page. |
-| Make a permission checklist | You | October 2026 | Backlog | Useful before contractor conversations. |
+| Las stadgar for renoveringsregler | Du | September 2026 | Backlog | Sarskilt kok, vatrum, ventilation och terrass. |
+| Spara BRF-kontaktuppgifter | Du | September 2026 | Backlog | Lagg in pa kontaktsidan. |
+| Gor checklista for godkannanden | Du | Oktober 2026 | Backlog | Bra fore hantverkarsamtal. |

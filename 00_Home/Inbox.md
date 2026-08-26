@@ -1,14 +1,14 @@
-# Inbox
+# Inkorg
 
-Use this page for raw notes, ideas, questions, links, screenshots, measurements, and "remember this" thoughts. Clean it up when you have time by moving items into a project page, task, decision, budget line, or archive.
+Anvand den har sidan for losa anteckningar, ideer, fragor, lankar, skarmbilder, matt och "kom ihag"-tankar. Rensa nar det passar genom att flytta saker till projektsidor, uppgifter, beslut, budgetrader eller arkiv.
 
-## Capture
+## Snabbt Infangat
 
-- Kitchen idea: dark blue fronts, warm wood, brass knobs, stone countertop. See [Kitchen Blue Inspiration](../03_References/Kitchen_Blue_Inspiration.md).
+- Koksidé: morkbla fronter, varmt tra, massingsknoppar och stenbankskiva. Se [Bla Koksinspiration](../03_References/Kitchen_Blue_Inspiration.md).
 
-## To Sort
+## Att Sortera
 
-- [ ] What work would be best done before moving in?
-- [ ] What needs BRF approval?
-- [ ] What measurements do we need on access day?
-- [ ] What should we ask the seller or broker before handover?
+- [ ] Vilket arbete vore bast att gora fore inflytt?
+- [ ] Vad behover BRF-godkannande?
+- [ ] Vilka matt behover vi ta pa tilltradesdagen?
+- [ ] Vad ska vi fraga saljaren eller maklaren fore overlamning?

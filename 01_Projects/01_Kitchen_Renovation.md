@@ -1,72 +1,72 @@
-# Kitchen Renovation
+# Koksrenovering
 
-Status: Exploring  
-Priority: High  
-Ideal decision window: September-October 2026  
-Main question: do we renovate before move-in, after move-in, or in stages?
+Status: Utforskas
+Prioritet: Hog
+Idealisk beslutsperiod: september-oktober 2026
+Huvudfraga: ska vi renovera fore inflytt, efter inflytt eller i etapper?
 
 ## Vision
 
-The current leading idea is a dark blue kitchen with warm wood, brass details, and a stone countertop. The attached AI inspiration image is saved here:
+Den ledande iden just nu ar ett morkblatt kok med varmt tra, massingsdetaljer och stenbankskiva. AI-inspirationen ar sparad har:
 
-![Blue kitchen inspiration](../03_References/Images/kitchen-blue-ai-inspiration.png)
+![Bla koksinspiration](../03_References/Images/kitchen-blue-ai-inspiration.png)
 
-## Current Apartment Facts
+## Nuvarande Fakta
 
-- Open kitchen and living room.
-- Existing kitchen has a large island, smooth cabinet fronts, generous work surfaces, and integrated appliances.
-- Appliances mentioned in listing: Siemens fridge/freezer; Neff induction hob, extractor, oven, microwave, dishwasher, and integrated espresso machine.
-- There is a dining area nearby and a storage/wine cabinet area behind the dining place.
+- Oppet kok och vardagsrum.
+- Nuvarande kok har stor ko, slata luckor, generosa arbetsytor och integrerade vitvaror.
+- Vitvaror enligt annons: Siemens kyl/frys; Neff induktionshall, flakt, ugn, mikro, diskmaskin och integrerad espressomaskin.
+- Det finns matplats i narheten och forvaring/vinkyl bakom matplatsen.
 
-## Possible Scopes
+## Mojliga Omfattningar
 
-| Scope | What It Means | Pros | Watchouts |
+| Omfattning | Vad Det Innebar | Plus | Att Se Upp Med |
 | --- | --- | --- | --- |
-| Cosmetic refresh | Paint or replace fronts, new handles, minor lighting | Faster, lower disruption | Existing layout constraints remain |
-| Medium renovation | Fronts, countertop, sink/tap, lighting, selected appliances | Big visual effect | Needs measuring and supplier lead time |
-| Full renovation | Layout, cabinetry, utilities, appliances, surfaces | Maximum control | Cost, BRF rules, construction timeline |
+| Kosmetisk uppdatering | Mala eller byta fronter, nya handtag, mindre belysning | Snabbare, mindre stok | Befintlig planlosning styr fortfarande |
+| Mellanrenovering | Fronter, bankskiva, diskho/blandare, belysning, vissa vitvaror | Stor visuell effekt | Behover matt och leveranstider |
+| Full renovering | Planlosning, stommar, installationer, vitvaror, ytskikt | Mest kontroll | Kostnad, BRF-regler och byggtid |
 
-## Questions
+## Fragor
 
-- What do we dislike about the current kitchen?
-- What must improve: look, storage, cooking flow, lighting, seating, appliances?
-- Is the blue concept a serious direction or just mood-board exploration?
-- Which parts are worth preserving?
-- Does any work affect plumbing, ventilation, electrical, or load-bearing structure?
-- What permissions or notifications does the BRF require?
+- Vad gillar vi inte med nuvarande kok?
+- Vad maste bli battre: uttryck, forvaring, matlagningsflode, belysning, sittplatser, vitvaror?
+- Ar det bla konceptet en seriös riktning eller mest moodboard?
+- Vilka delar ar varda att bevara?
+- Paverkar nagot arbete VVS, ventilation, el eller barande konstruktion?
+- Vilka godkannanden eller anmalningar kraver BRF?
 
-## Measurements Needed On Access Day
+## Matt Som Behovs Pa Tilltradesdagen
 
-- Island length, width, height, overhang.
-- Cabinet runs and ceiling slope dimensions.
-- Appliance dimensions and model numbers.
-- Sink, plumbing, and electrical locations.
-- Ventilation route and extractor type.
-- Countertop thickness and material.
-- Distance between island, cabinets, dining area, and fireplace.
+- Kons langd, bredd, hojd och overhang.
+- Skaplinjer och snedtaksmatt.
+- Vitvarumatt och modellnummer.
+- Placering av diskho, VVS och el.
+- Ventilationsvag och typ av flakt.
+- Bankskivans tjocklek och material.
+- Avstand mellan ko, skap, matplats och eldstad.
 
-## Starter Tasks
+## Startuppgifter
 
-| Task | Owner | Timing | Status | Notes |
+| Uppgift | Agare | Timing | Status | Anteckningar |
 | --- | --- | --- | --- | --- |
-| Decide preferred renovation scope | Both | September 2026 | Next | Cosmetic, medium, or full. |
-| Collect 10 reference kitchens | Both | September 2026 | Backlog | Include why each image works or does not. |
-| Ask BRF about kitchen renovation requirements | You | October 2026 | Backlog | Plumbing, ventilation, noise, contractor rules. |
-| Create supplier shortlist | You | October 2026 | Backlog | Cabinet fronts, countertop, contractor. |
-| Measure kitchen on access day | You | 2026-12-21 | Scheduled | Use measurements section above. |
+| Bestam onskad omfattning | Bada | September 2026 | Nasta | Kosmetisk, mellan eller full. |
+| Samla 10 referenskok | Bada | September 2026 | Backlog | Skriv varfor varje bild funkar eller inte. |
+| Fraga BRF om krav for koksrenovering | Du | Oktober 2026 | Backlog | VVS, ventilation, ljud och hantverksregler. |
+| Skapa kortlista pa leverantorer | Du | Oktober 2026 | Backlog | Koksfronter, bankskiva och hantverkare. |
+| Mata koket pa tilltradesdagen | Du | 2026-12-21 | Schemalagd | Anvand mattlistan ovan. |
 
-## Decisions To Make
+## Beslut Att Ta
 
-- Color direction.
-- Keep or replace countertop.
-- Keep or replace appliances.
-- Handle style and metal finish.
-- Lighting plan above island and work areas.
-- Budget ceiling.
-- Construction timing.
+- Farg riktning.
+- Behalla eller byta bankskiva.
+- Behalla eller byta vitvaror.
+- Handtagsstil och metallfinish.
+- Belysning ovanfor ko och arbetsytor.
+- Budgettak.
+- Byggtider.
 
-## Links and References
+## Lankar Och Referenser
 
-- [Kitchen Blue Inspiration](../03_References/Kitchen_Blue_Inspiration.md)
-- [Budget Tracker](../00_Home/Budget_Tracker.md)
-- [Decision Log](../00_Home/Decision_Log.md)
+- [Bla Koksinspiration](../03_References/Kitchen_Blue_Inspiration.md)
+- [Budget](../00_Home/Budget_Tracker.md)
+- [Beslutslogg](../00_Home/Decision_Log.md)

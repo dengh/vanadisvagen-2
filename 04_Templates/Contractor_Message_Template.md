@@ -1,26 +1,26 @@
-# Contractor Message Template
+# Mall For Meddelande Till Hantverkare
 
-Subject: Renovation inquiry - Vanadisvagen 2, Stockholm
+Amne: Forfragan om renovering - Vanadisvagen 2, Stockholm
 
-Hi,
+Hej,
 
-We are moving into an apartment at Vanadisvagen 2 on 2026-12-21 and are exploring renovation work for [project/scope].
+Vi flyttar in i en lagenhet pa Vanadisvagen 2 med tilltrade 2026-12-21 och undersoker mojligheten att gora [projekt/omfattning].
 
-The rough scope is:
+Den grova omfattningen ar:
 
-- [Scope item 1]
-- [Scope item 2]
-- [Scope item 3]
+- [Omfattning 1]
+- [Omfattning 2]
+- [Omfattning 3]
 
-We would like help understanding possible timing, budget range, and what information you need from us before giving an estimate. We can provide photos, floor plan, measurements, and access after 2026-12-21.
+Vi vill garna forsta mojlig tajming, budgetspann och vilken information ni behover fran oss for att kunna ge en uppskattning. Vi kan dela bilder, planlosning, matt och tillgang efter 2026-12-21.
 
-Questions:
+Fragor:
 
-- Do you take on this kind of project?
-- What lead time should we expect?
-- Can you give an initial budget range from photos and measurements?
-- What work would require permits, BRF approval, or specialist trades?
+- Tar ni er an den har typen av projekt?
+- Vilken ledtid bor vi rakna med?
+- Kan ni ge ett forsta budgetspann utifran bilder och matt?
+- Vilket arbete skulle krava tillstand, BRF-godkannande eller specialistkompetens?
 
-Best,
+Vanliga halsningar,
 
-[Name]
+[Namn]
