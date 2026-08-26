@@ -5,7 +5,9 @@ Tilltrade: 2026-12-21
 GitHub-arkiv: https://github.com/dengh/vanadisvagen-2
 Webbsida: https://dengh.github.io/vanadisvagen-2/
 
-Det har ar startsidan for lagenhetsplaneringen. Anvand den som karta: snabba tankar hamnar i inkorgen, konkret arbete hamnar pa projektsidor och beslut kopieras till beslutsloggen nar ni ar overens.
+Det har ar Codex arbetskarta for lagenhetsplaneringen. Anvandaren och flickvannen interagerar normalt via webbsidan och chatt, inte genom att lasa Markdown-filerna direkt.
+
+Snabba tankar hamnar i inkorgen, konkret arbete hamnar pa projektsidor och beslut kopieras till beslutsloggen nar ni ar overens. Nar nagot ar relevant for anvandaren eller flickvannen ska `index.html` uppdateras sa webbsidan fortsatter vara den primara vyn.
 
 For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context_For_New_Chats.md). Filen `AGENTS.md` ger ocksa Codex automatisk projektkontext i den har mappen.
 
