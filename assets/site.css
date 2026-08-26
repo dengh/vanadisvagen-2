@@ -57,9 +57,10 @@ a {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(320px, 1.1fr);
-  min-height: 560px;
+  grid-template-columns: minmax(360px, 0.86fr) minmax(0, 1.14fr);
+  min-height: 460px;
   border-bottom: 1px solid var(--line);
+  overflow: hidden;
 }
 
 .hero-text {
@@ -67,11 +68,11 @@ a {
   flex-direction: column;
   justify-content: center;
   gap: 26px;
-  padding: clamp(44px, 8vw, 96px) clamp(22px, 5vw, 72px);
+  padding: clamp(38px, 6vw, 72px) clamp(22px, 5vw, 72px);
 }
 
 .hero-image {
-  min-height: 420px;
+  min-height: 460px;
   background: var(--blue);
 }
 
@@ -93,8 +94,9 @@ h3 {
 
 h1 {
   max-width: 720px;
-  font-size: clamp(3rem, 8vw, 6.8rem);
+  font-size: clamp(3rem, 5vw, 5.2rem);
   font-weight: 850;
+  overflow-wrap: anywhere;
 }
 
 h2 {
@@ -148,7 +150,7 @@ main {
 }
 
 section {
-  padding: clamp(42px, 7vw, 82px) clamp(18px, 4vw, 56px);
+  padding: clamp(38px, 6vw, 70px) clamp(18px, 4vw, 56px);
   border-bottom: 1px solid var(--line);
 }
 
@@ -209,8 +211,8 @@ section {
 
 .project-card {
   display: grid;
-  grid-template-rows: 260px auto;
-  min-height: 520px;
+  grid-template-rows: 240px auto;
+  min-height: 450px;
   border: 1px solid var(--line);
   border-radius: 8px;
   overflow: hidden;
@@ -230,7 +232,7 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 22px;
+  gap: 18px;
   padding: 22px;
 }
 
