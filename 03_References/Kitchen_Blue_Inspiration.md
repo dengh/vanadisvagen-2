@@ -8,6 +8,10 @@ Nyare inspirationsbild:
 
 ![Grön koksinspiration](Images/kitchen-green-ai-inspiration.png)
 
+Ljusare grön inspirationsbild:
+
+![Ljusgrön koksinspiration](Images/kitchen-green-ai-inspiration-2.png)
+
 ## Vad Som Fungerar I Den Har Riktningen
 
 - Morkbla skap kanns lugna men anda tydliga.
