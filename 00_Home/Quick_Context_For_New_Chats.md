@@ -10,6 +10,10 @@ Main entry point:
 
 - `APARTMENT_HUB.md`
 
+GitHub repository:
+
+- https://github.com/dengh/vanadisvagen-2
+
 Important working files:
 
 - `00_Home/Inbox.md` - quick capture.

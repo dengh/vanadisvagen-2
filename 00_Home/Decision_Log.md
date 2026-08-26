@@ -5,6 +5,7 @@ Use this whenever a choice becomes settled. The goal is to remember why you chos
 | Date | Decision | Project | Reason | Owner | Revisit? |
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-26 | Use this folder as the apartment planning hub | Overall | Keeps references, project notes, decisions, and shared thoughts in one place | You | No |
+| 2026-08-26 | Keep the apartment project in a public GitHub repository | Overall | Makes the full project easy to access, share, version, and later publish through GitHub Pages | You | If privacy needs change |
 
 ## Open Decisions
 

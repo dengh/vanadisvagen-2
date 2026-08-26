@@ -6,6 +6,7 @@ This workspace is an apartment planning hub for Vanadisvagen 2 in Stockholm.
 
 - The user recently bought the apartment.
 - Access date is 2026-12-21.
+- Public GitHub repository: https://github.com/dengh/vanadisvagen-2
 - The user will interact with this project through Codex rather than manually maintaining a separate app.
 - Codex should help organize information, find existing context, create and update project notes, turn thoughts into tasks, and prepare shareable summaries for the user's girlfriend.
 - Existing listing/source material should be preserved and not reorganized unless explicitly requested.

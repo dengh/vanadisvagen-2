@@ -2,6 +2,8 @@
 
 Access date: 2026-12-21
 
+GitHub repository: https://github.com/dengh/vanadisvagen-2
+
 This is the start page for apartment planning. Use it as the map: quick thoughts go into the inbox, concrete work goes into project pages, and decisions get copied into the decision log once you have agreed on them.
 
 For new Codex chats, use [Quick Context For New Chats](00_Home/Quick_Context_For_New_Chats.md). The root `AGENTS.md` file also gives Codex automatic project context when working in this folder.
