@@ -1,0 +1,119 @@
+{
+  "source_url": "https://www.svenskfast.se/salda/bostadsratt/stockholm/stockholm/stockholm/vasastan/vanadisvagen-2--vindsvaning/398702/",
+  "canonical_url": "https://www.svenskfast.se/salda/bostadsratt/stockholm/stockholm/stockholm/vasastan/vanadisvagen-2--vindsvaning/398702/",
+  "saved_at": "2026-08-20 07:45:30 CEST",
+  "advertised_date": "2024-08-09",
+  "advertised_date_source": "Schema.org RealEstateListing datePosted samt meta itemprop=datePublished i original-HTML.",
+  "sold_date": "2024-08-22",
+  "sold_date_source": "Sidans badge: Såld 22 aug 2024",
+  "last_updated": "2024-08-22",
+  "object_id": "398702",
+  "archive_title": "2024-08-09 - Vanadisvägen 2 - Svensk Fast 398702",
+  "folder_name": "2024-08-09_vanadisvagen_2_svenskfast_398702",
+  "title": "Vanadisvägen 2, Vindsvåning, vån 6, Stockholm | Svensk Fastighetsförmedling",
+  "address": "Vanadisvägen 2, Vindsvåning, Stockholm",
+  "headline": "Modern vindsvåning med terrass i lågt belånad förening!",
+  "status": "Såld",
+  "final_price": "13 350 000 kr",
+  "price_numeric": "13350000",
+  "description": "Välkommen till denna fantastiska vindsvåning med exklusiva materialval. Den erbjuder en unik upplevelse med sina luftiga och generöst tilltagna rum samt en imponerande takhöjd på cirka fyra meter. Ljuset strömmar in från flertalet stora fönster och skapar en underbar atmosfär och känsla av harmoni. Den genomgående fiskbensparketten binder samman rummen på ett elegant sätt och skapar en enhetlig känsla i hela lägenheten. Lägenheten är utrustad med dimbar belysning, vilket gör det lätt att skapa en mysig atmosfär. Mysfaktorn förstärks ytterligare av öppna spisen, perfekt för kyliga kvällar. Under den varmare delen av året är terrassen idealisk för att äta middag eller bara slappa. Här kan man njuta av solen från tidig eftermiddag till solnedgång, med en oslagbar utsikt över kvällshimlen och solen som går ner vid Wenner-Gren Center. Dessutom har fastigheten åtta parkeringsplatser precis utanför porten.\n\nBrf Mjölner 1 är en lågt belånad, äkta bostadsrättsförening. Föreningen förvärvade fastigheten 1995 och äger marken.\n\nLägenheten ligger med fint läge på Vanadisvägen och erbjuder närhet till det bästa Stockholm har att erbjuda - perfekt för dig som ställer höga krav på din boendemiljö! Gångavstånd till grönområden så som Vanadislunden, Hagaparken och Brunnsviken med dess omtalade promenadstråk och badmöjligheter men även Vasaparken och dess härliga atmosfär. Tillsammans med det härliga centrala läget med direkt närhet och gångavstånd till city samt för den bilburna, perfekt beläget med nära utfart mot både E4:an och E18, är läget optimalt. Kommunikationsmöjligheterna är de bästa tänkbara med Odenplan alldeles runt hörnet med både tunnelbana, pendeltåg samt citybussar som tar dig till stadens alla hörn och kanter. Närhet till förskolor och skolor.\n\nMissa inte chansen att bli ägare till denna fantastiska lägenhet där modern lyx möter tidlös elegans. Kontakta mig idag för att boka en visning och upptäcka allt detta hem har att erbjuda.",
+  "facts": [
+    {
+      "label": "Typ",
+      "value": "Bostadsrättslägenhet"
+    },
+    {
+      "label": "Rum",
+      "value": "4, varav 3 sovrum"
+    },
+    {
+      "label": "Boarea",
+      "value": "99 m^2"
+    },
+    {
+      "label": "Biarea",
+      "value": "17 m^2"
+    },
+    {
+      "label": "Lägenhetsnummer",
+      "value": "01045"
+    },
+    {
+      "label": "Bruksarea",
+      "value": "116 m^2"
+    },
+    {
+      "label": "Byggnadsår",
+      "value": "1926"
+    },
+    {
+      "label": "Månadsavgift",
+      "value": "3 246 kr"
+    },
+    {
+      "label": "Upplåtelseform",
+      "value": "Bostadsrätt"
+    },
+    {
+      "label": "Våning",
+      "value": "6 av 6"
+    },
+    {
+      "label": "Hiss",
+      "value": "Ja"
+    }
+  ],
+  "seller": {
+    "office": "Svensk Fastighetsförmedling Sthlm Vasastan",
+    "office_phone": "+46 8 25 53 40",
+    "office_address": "Vanadisvägen 2, Vindsvåning, Vasastan",
+    "broker_name": "Sam Öhrn",
+    "broker_title": "Fastighetsmäklare",
+    "broker_phone": "070-333 10 76",
+    "broker_email": "sam.ohrn@svenskfast.se"
+  },
+  "location": {
+    "street_address": "Vanadisvägen 2, Vindsvåning, Vasastan",
+    "city": "Stockholm",
+    "district": "Vasastan",
+    "postal_code": "11346",
+    "country": "Sverige",
+    "lat": "59.34809",
+    "lng": "18.05075"
+  },
+  "images": [
+    {
+      "index": 1,
+      "label": "Omslagsbild",
+      "url": "https://i.sfcdn.se/Resurs/ArchiveImage/398702/Large/638526640560000000/MDIyNnwwMDAxODMzNTE3Nnw5Ng...jpg",
+      "download_url": "https://www.svenskfast.se/Resurs/ArchiveImage/398702/Large/638526640560000000/MDIyNnwwMDAxODMzNTE3Nnw5Ng...jpg",
+      "file": "images/01_omslagsbild.jpg",
+      "absolute_file": "/Users/dengh/Documents/Vanadisvägen 2/2024-08-09_vanadisvagen_2_svenskfast_398702/images/01_omslagsbild.jpg",
+      "bytes": 314292,
+      "content_type": "image/jpeg"
+    },
+    {
+      "index": 2,
+      "label": "Planritning",
+      "url": "https://i.sfcdn.se/Resurs/ArchiveImage/398702/Large/638526648900000000/MDIyNnwwMDAxODMwODExM3w5Ng...jpg",
+      "download_url": "https://www.svenskfast.se/Resurs/ArchiveImage/398702/Large/638526648900000000/MDIyNnwwMDAxODMwODExM3w5Ng...jpg",
+      "file": "images/02_planritning.jpg",
+      "absolute_file": "/Users/dengh/Documents/Vanadisvägen 2/2024-08-09_vanadisvagen_2_svenskfast_398702/images/02_planritning.jpg",
+      "bytes": 174718,
+      "content_type": "image/jpeg"
+    },
+    {
+      "index": 3,
+      "label": "Mäklarbild Sam Öhrn",
+      "url": "https://i.sfcdn.se/userimage/7443/medium/sam-ohrn-maklare-sthlm-vasastan-svensk-fastighetsformedling.jpg",
+      "download_url": "https://i.sfcdn.se/userimage/7443/medium/sam-ohrn-maklare-sthlm-vasastan-svensk-fastighetsformedling.jpg",
+      "file": "images/maklare_sam_ohrn.jpg",
+      "absolute_file": "/Users/dengh/Documents/Vanadisvägen 2/2024-08-09_vanadisvagen_2_svenskfast_398702/images/maklare_sam_ohrn.jpg",
+      "bytes": 11638,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "documents": [],
+  "raw_html_file": "/Users/dengh/Documents/Vanadisvägen 2/2024-08-09_vanadisvagen_2_svenskfast_398702/raw/original.html",
+  "raw_print_file": "/Users/dengh/Documents/Vanadisvägen 2/2024-08-09_vanadisvagen_2_svenskfast_398702/raw/print.html"
+}
