@@ -8,6 +8,7 @@ Det har ar en planeringshub for lagenheten pa Vanadisvagen 2 i Stockholm.
 - Tilltradesdag ar 2026-12-21.
 - Publikt GitHub-arkiv: https://github.com/dengh/vanadisvagen-2
 - Publik webbsida: https://dengh.github.io/vanadisvagen-2/
+- Webbsidan har en enkel klientbaserad lösenordsspärr. Den är bara till för att kännas lite mer privat, inte för verklig säkerhet i ett publikt GitHub-arkiv.
 - Anvandaren och flickvannen kommer bara att interagera med projektet via webbsidan och chatt med Codex.
 - Markdown-filerna ar Codex arbetslager och projektets strukturerade kallmaterial, inte nagot anvandaren forvantas lasa eller redigera manuellt.
 - Codex ska hjalpa till att organisera information, hitta befintlig kontext, skapa och uppdatera projektanteckningar, gora tankar till uppgifter och ta fram delbara sammanfattningar till anvandarens flickvan.
