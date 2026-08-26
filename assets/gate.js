@@ -1,5 +1,5 @@
 (() => {
-  const passwordHash = "a96ef412b4f5957556026be2d4b0ec5711774502e122e0ef7fbfdfa54d5caaf6";
+  const passwordHash = "c76cd54038260c9c142e65a4dc1c34a2d8f1993805f4ad9154521f887ce246d5";
   const storageKey = "vanadisvagen-2-access";
 
   const hashText = async (value) => {

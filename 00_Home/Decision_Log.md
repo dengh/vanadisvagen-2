@@ -10,6 +10,7 @@ Anvand den har nar ett val blir bestamt. Malet ar att komma ihag varfor ni valde
 | 2026-08-26 | Anvanda webbsidan och Codex-chatten som enda anvandarytor | Helheten | Markdown-filerna kan vara Codex arbetslager medan webbsidan ar den enkla vyn for er | Du | Om ni vill redigera direkt i GitHub senare |
 | 2026-08-26 | Visa bara kök och terrass på webbsidan tills vidare | Webbsida | Gör sidan enklare och mer relevant | Du | När fler projekt ska bli aktiva |
 | 2026-08-26 | Lägga enkel lösenordsspärr på webbsidan | Webbsida | Sidan ska kännas mer privat trots att GitHub-arkivet är publikt | Du | Om riktig åtkomstkontroll behövs |
+| 2026-08-26 | Byta lösenord för webbsidan till `tegelsten` | Webbsida | Uppdaterat enligt önskemål | Du | Vid behov |
 
 ## Oppna Beslut
 
