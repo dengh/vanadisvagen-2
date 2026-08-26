@@ -12,16 +12,10 @@ Vi far tilltrade 2026-12-21. Har samlar vi renoveringsideer, inflyttningsplaneri
 - [Delade anteckningar](02_Shared/Shared_Notes.md)
 - [Veckocheck](02_Shared/Weekly_Check_In.md)
 
-## Projektomraden
+## Aktiva Projekt På Webbsidan
 
 - Koksrenovering.
-- Inflytt och tilltradesdag.
-- Papper, BRF och admin.
 - Terrass och vaxter.
-- Belysning och el.
-- Forvaring och platsbyggt.
-- Badrum och gast-WC.
-- Sovrum och arbetsplats.
 
 ## Sa Anvander Vi Det Har
 

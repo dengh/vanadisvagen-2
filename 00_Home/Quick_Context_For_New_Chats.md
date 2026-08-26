@@ -30,16 +30,12 @@ Viktiga arbetsfiler:
 - `02_Shared/Shared_Notes.md` - tankar att dela med min flickvan.
 - `02_Shared/Weekly_Check_In.md` - aterkommande samtalsformat.
 
-Nuvarande projektomraden:
+Aktiva projekt på webbsidan:
 
 - Koksrenovering.
-- Inflytt och tilltradesdag.
-- Papper, BRF och admin.
 - Terrass och vaxter.
-- Belysning och el.
-- Forvaring och platsbyggt.
-- Badrum och gast-WC.
-- Sovrum och arbetsplats.
+
+Andra interna anteckningar kan finnas kvar som arbetsmaterial för Codex, men ska inte visas på webbsidan om jag inte ber om det.
 
 Kokskontext:
 

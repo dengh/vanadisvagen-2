@@ -9,6 +9,8 @@ Det har ar Codex arbetskarta for lagenhetsplaneringen. Anvandaren och flickvanne
 
 Snabba tankar hamnar i inkorgen, konkret arbete hamnar pa projektsidor och beslut kopieras till beslutsloggen nar ni ar overens. Nar nagot ar relevant for anvandaren eller flickvannen ska `index.html` uppdateras sa webbsidan fortsatter vara den primara vyn.
 
+Webbsidan visar tills vidare bara de aktiva projekten kök och terrass.
+
 For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context_For_New_Chats.md). Filen `AGENTS.md` ger ocksa Codex automatisk projektkontext i den har mappen.
 
 ## Oppna Tradar
