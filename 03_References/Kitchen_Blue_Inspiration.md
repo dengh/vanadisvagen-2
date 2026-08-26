@@ -4,6 +4,10 @@ Sparad inspirationsbild:
 
 ![Bla koksinspiration](Images/kitchen-blue-ai-inspiration.png)
 
+Nyare inspirationsbild:
+
+![Grön koksinspiration](Images/kitchen-green-ai-inspiration.png)
+
 ## Vad Som Fungerar I Den Har Riktningen
 
 - Morkbla skap kanns lugna men anda tydliga.

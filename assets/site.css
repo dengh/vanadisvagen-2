@@ -285,6 +285,11 @@ section {
   align-items: start;
 }
 
+.gallery-page {
+  display: grid;
+  gap: 22px;
+}
+
 .panel {
   padding: 22px;
   border: 1px solid var(--line);
@@ -314,6 +319,10 @@ section {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 14px;
+}
+
+.image-grid.large figure img {
+  height: 440px;
 }
 
 figure {
@@ -390,5 +399,9 @@ footer a {
 
   figure img {
     height: 240px;
+  }
+
+  .image-grid.large figure img {
+    height: 260px;
   }
 }

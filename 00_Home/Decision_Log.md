@@ -11,6 +11,7 @@ Anvand den har nar ett val blir bestamt. Malet ar att komma ihag varfor ni valde
 | 2026-08-26 | Visa bara kök och terrass på webbsidan tills vidare | Webbsida | Gör sidan enklare och mer relevant | Du | När fler projekt ska bli aktiva |
 | 2026-08-26 | Lägga enkel lösenordsspärr på webbsidan | Webbsida | Sidan ska kännas mer privat trots att GitHub-arkivet är publikt | Du | Om riktig åtkomstkontroll behövs |
 | 2026-08-26 | Byta lösenord för webbsidan till `tegelsten` | Webbsida | Uppdaterat enligt önskemål | Du | Vid behov |
+| 2026-08-26 | Hålla köksprojektet som ren inspirationssamling tills vidare | Kök | Det finns ännu inget renoveringsbeslut, bara inspirationsbilder | Du | När planering börjar på riktigt |
 
 ## Oppna Beslut
 
