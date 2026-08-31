@@ -8,6 +8,9 @@ Anvand grova siffror tidigt. Ersatt dem med offerter nar de finns.
 | Inflyttningskostnader | Inflytt | TBD | TBD | TBD | Planeras | Flytt, stadning, smaverktyg och startprylar. |
 | Belysningsforbattringar | Belysning | TBD | TBD | TBD | Backlog | Armaturer, dimmers och elektriker vid behov. |
 | Terrass | Terrass | TBD | TBD | TBD | Backlog | Mobler, planteringskarl, bevattning och vinterforvaring. |
+| Portabel AC | AC | TBD | TBD | TBD | Backlog | Portabel enhet, slang och tatning for utblas. |
+| Kaminmobel med TV-hiss | TV-mobel | TBD | TBD | TBD | Backlog | Snickeri, mekanik och el runt kaminen. |
+| Platsbyggd sittbank i hallen | Hallbank | TBD | TBD | TBD | Backlog | Snickeri, ytbehandling och eventuell sittdyna. |
 
 ## Budgetanteckningar
 

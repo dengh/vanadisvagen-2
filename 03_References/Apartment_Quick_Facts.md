@@ -1,10 +1,10 @@
-# Snabbfakta Om Lagenheten
+# Snabbfakta Om Nya Läggan
 
 Kalla: sparat annonsmaterial fran 2026 i `2026-08-18_vanadisvagen_2`.
 
 ## Grundfakta
 
-- Adress: Vanadisvagen 2, 11346 Stockholm.
+- Benamning: Nya Läggan.
 - Omrade: Vasastan.
 - Lagenhet: 98 + 17 kvm.
 - Rum: 4.

@@ -99,7 +99,7 @@ h1 {
 }
 
 h2 {
-  font-size: clamp(2rem, 4vw, 3.3rem);
+  font-size: clamp(1.9rem, 3vw, 2.7rem);
   font-weight: 820;
 }
 
@@ -118,18 +118,38 @@ p {
   font-size: clamp(1.08rem, 2vw, 1.34rem);
 }
 
+.home-hero {
+  padding: clamp(34px, 5vw, 62px) clamp(18px, 4vw, 56px);
+  border-bottom: 1px solid var(--line);
+}
+
+.home-hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(360px, 0.76fr);
+  gap: 36px;
+  align-items: end;
+}
+
+.home-hero h1 {
+  max-width: none;
+  font-size: clamp(2.6rem, 4.4vw, 4.25rem);
+}
+
 .facts {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
-  max-width: 680px;
+  gap: 0;
+  border: 1px solid var(--line);
+  background: var(--surface);
 }
 
 .fact {
-  min-height: 86px;
-  padding: 15px;
-  border: 1px solid var(--line);
-  background: var(--surface);
+  min-height: 82px;
+  padding: 14px 16px;
+}
+
+.fact + .fact {
+  border-left: 1px solid var(--line);
 }
 
 .fact strong {
@@ -149,7 +169,7 @@ main {
 }
 
 section {
-  padding: clamp(38px, 6vw, 70px) clamp(18px, 4vw, 56px);
+  padding: clamp(30px, 5vw, 56px) clamp(18px, 4vw, 56px);
   border-bottom: 1px solid var(--line);
 }
 
@@ -210,8 +230,8 @@ section {
 
 .project-card {
   display: grid;
-  grid-template-rows: 240px auto;
-  min-height: 450px;
+  grid-template-rows: 210px auto;
+  min-height: 380px;
   border: 1px solid var(--line);
   border-radius: 8px;
   overflow: hidden;
@@ -369,8 +389,13 @@ footer a {
 
   .hero,
   .project-hero,
+  .home-hero-inner,
   .content-grid {
     grid-template-columns: 1fr;
+  }
+
+  .home-hero-inner {
+    gap: 24px;
   }
 
   .project-grid,
@@ -394,8 +419,17 @@ footer a {
     font-size: 3rem;
   }
 
+  .home-hero h1 {
+    font-size: 2.7rem;
+  }
+
   .facts {
     grid-template-columns: 1fr;
+  }
+
+  .fact + .fact {
+    border-top: 1px solid var(--line);
+    border-left: 0;
   }
 
   figure img {

@@ -1,6 +1,6 @@
-# Vanadisvagen 2
+# Nya Läggan
 
-Det har arkivet ar planeringshubben for var lagenhet pa Vanadisvagen 2 i Stockholm.
+Det har arkivet ar planeringshubben for var lagenhet i Stockholm.
 
 Vi far tilltrade 2026-12-21. Har samlar vi renoveringsideer, inflyttningsplanering, dokument, uppgifter, beslut, budget, referenser och delade anteckningar.
 
@@ -12,10 +12,14 @@ Vi far tilltrade 2026-12-21. Har samlar vi renoveringsideer, inflyttningsplaneri
 - [Delade anteckningar](02_Shared/Shared_Notes.md)
 - [Veckocheck](02_Shared/Weekly_Check_In.md)
 
-## Aktiva Projekt På Webbsidan
+## Aktiva Projekt Pa Webbsidan
 
 - Koksrenovering.
 - Terrass och vaxter.
+
+- Portabel AC.
+- Kaminmobel med TV-hiss.
+- Platsbyggd sittbank i hallen.
 
 ## Sa Anvander Vi Det Har
 

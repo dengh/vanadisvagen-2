@@ -18,6 +18,9 @@ Statusvarden: `Backlog`, `Nasta`, `Vantar`, `Schemalagd`, `Klar`.
 | Bygg forsta renoveringsbudgeten | Budget | Du | TBD | Backlog | Borja med grova spann och ersatt med offerter senare. |
 | Lista fragor for BRF-godkannande | Admin | Du | TBD | Backlog | Koksventilation, VVS, el och terrassregler. |
 | Planera sadant som behovs for forsta veckan | Inflytt | Bada | TBD | Backlog | Nycklar, el, internet, forsakring, stadning och verktyg. |
+| Mata utblasvagar for portabel AC | AC | Du | TBD | Backlog | Franluftsventil eller takfonster utan permanenta ingrepp. |
+| Mata vagg, kamin och TV for mobellosning | TV-mobel | Du | TBD | Backlog | Kontrollera varme, djup, kablar och lyfthojd. |
+| Mata hallen for platsbyggd sittbank | Hallbank | TBD | TBD | Backlog | Kontrollera dorrar och fri passage; skissa sedan matt och eventuell forvaring. |
 
 ## Vantar
 

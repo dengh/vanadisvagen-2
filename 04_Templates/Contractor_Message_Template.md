@@ -1,10 +1,10 @@
 # Mall For Meddelande Till Hantverkare
 
-Amne: Forfragan om renovering - Vanadisvagen 2, Stockholm
+Amne: Forfragan om renovering - Nya Läggan, Stockholm
 
 Hej,
 
-Vi flyttar in i en lagenhet pa Vanadisvagen 2 med tilltrade 2026-12-21 och undersoker mojligheten att gora [projekt/omfattning].
+Vi flyttar in i en lagenhet i Stockholm med tilltrade 2026-12-21 och undersoker mojligheten att gora [projekt/omfattning].
 
 Den grova omfattningen ar:
 

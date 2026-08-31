@@ -6,6 +6,8 @@ Anvand den har nar ni vill dela tankar med varandra utan att gora allt till uppg
 
 - Koket kan bli ett riktigt starkt visuellt centrum i lagenheten.
 - Terrassen har stor potential som uterum.
+- En portabel AC kan ge svalka utan permanenta ingrepp.
+- En kaminmobel som doljer TV:n kan göra vardagsrummet lugnare.
 
 ## Saker Jag Ar Osaker Pa
 

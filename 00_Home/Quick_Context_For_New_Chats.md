@@ -1,6 +1,6 @@
 # Snabbkontext For Nya Codex-Chattar
 
-Det har projektet handlar om att planera allt kring var nya lagenhet pa Vanadisvagen 2 i Stockholm.
+Det har projektet handlar om att planera allt kring var nya lagenhet, Nya Läggan, i Stockholm.
 
 Vi har kopt lagenheten och far tilltrade 2026-12-21. Arbetsytan ska hjalpa oss att organisera renoveringsideer, inflyttningsplanering, dokument, uppgifter, beslut, budget och anteckningar som vi kan dela med varandra.
 
@@ -34,6 +34,10 @@ Aktiva projekt på webbsidan:
 
 - Koksrenovering.
 - Terrass och vaxter.
+
+- Portabel AC utan permanenta ingrepp.
+- Kaminmobel som kan dölja TV genom att sänka ner den i sig själv.
+- Platsbyggd sittbank i hallen, med eventuell forvaring att utreda.
 
 Andra interna anteckningar kan finnas kvar som arbetsmaterial för Codex, men ska inte visas på webbsidan om jag inte ber om det.
 

@@ -21,7 +21,7 @@
     gate.id = "password-gate";
     gate.innerHTML = `
       <div class="gate-box">
-        <h1>Vanadisvägen 2</h1>
+        <h1>Nya Läggan</h1>
         <p>Skriv lösenordet för att öppna sidan.</p>
         <form class="gate-form">
           <label for="gate-password">Lösenord</label>

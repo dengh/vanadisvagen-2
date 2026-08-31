@@ -1,4 +1,4 @@
-# Vanadisvagen 2
+# Nya Läggan
 
 Tilltrade: 2026-12-21
 
@@ -9,7 +9,8 @@ Det har ar Codex arbetskarta for lagenhetsplaneringen. Anvandaren och flickvanne
 
 Snabba tankar hamnar i inkorgen, konkret arbete hamnar pa projektsidor och beslut kopieras till beslutsloggen nar ni ar overens. Nar nagot ar relevant for anvandaren eller flickvannen ska `index.html` uppdateras sa webbsidan fortsatter vara den primara vyn.
 
-Webbsidan visar tills vidare bara de aktiva projekten kök och terrass.
+Webbsidan visar kök, terrass, portabel AC, möbel vid kaminen med automatisk TV-hiss och platsbyggd sittbänk i hallen.
+Alla projekt samlas under Projekt, utan separat kategori för nya projekt eller synliga statusetiketter.
 
 For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context_For_New_Chats.md). Filen `AGENTS.md` ger ocksa Codex automatisk projektkontext i den har mappen.
 
@@ -43,6 +44,9 @@ For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context
 - [Forvaring och Platsbyggt](01_Projects/06_Storage_and_Built_Ins.md)
 - [Badrum och Gast-WC](01_Projects/07_Bathroom_and_Guest_WC.md)
 - [Sovrum och Arbetsplats](01_Projects/08_Bedrooms_and_Workspace.md)
+- [Portabel AC](01_Projects/09_Portable_AC.md)
+- [Kaminmobel med TV-hiss](01_Projects/10_TV_Lift_Furniture.md)
+- [Platsbyggd sittbank i hallen](01_Projects/11_Hallway_Bench.md)
 
 ## Referensmaterial
 
