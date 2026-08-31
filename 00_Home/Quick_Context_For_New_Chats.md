@@ -39,6 +39,8 @@ Aktiva projekt på webbsidan:
 - Kaminmobel som kan dölja TV genom att sänka ner den i sig själv.
 - Platsbyggd sittbank i hallen, med eventuell forvaring att utreda.
 
+Kasserade projekt visas under en egen kategori på webbsidan och ligger i `05_Archive/`, till exempel idén att klä den moderna balken i trä.
+
 Andra interna anteckningar kan finnas kvar som arbetsmaterial för Codex, men ska inte visas på webbsidan om jag inte ber om det.
 
 Kokskontext:

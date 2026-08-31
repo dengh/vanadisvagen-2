@@ -19,7 +19,7 @@ Det har ar en planeringshub for lagenheten pa Vanadisvagen 2 i Stockholm.
 
 - Borja med `APARTMENT_HUB.md` for projektkartan nar du som Codex behover kontext.
 - Se `index.html` som den anvandarnara startsidan som flickvannen och anvandaren faktiskt navigerar.
-- Webbsidan ska tills vidare bara visa de aktiva projekten `Kök` och `Terrass`. Andra interna Markdown-projekt kan finnas kvar som arbetsmaterial, men ska inte synas på webben om användaren inte ber om det.
+- Webbsidan visar projekten `Kök`, `Terrass`, `AC`, `TV-möbel` och `Hallbänk`. Kasserade projekt visas i en separat kategori, med balkens träinklädnad som första projekt. Bevara befintliga synliga projekt om användaren inte ber om att ta bort dem. Andra interna Markdown-projekt visas när användaren ber om det.
 - Anvand `00_Home/Inbox.md` for snabb infangning av losa tankar.
 - Anvand `00_Home/Task_Board.md` for aktiva uppgifter.
 - Anvand `00_Home/Decision_Log.md` for beslut som ar tagna eller behover tas.

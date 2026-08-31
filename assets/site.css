@@ -220,6 +220,14 @@ section {
   color: var(--muted);
 }
 
+a.link-card {
+  text-decoration: none;
+}
+
+.image-grid.reference-images img {
+  height: auto;
+}
+
 .link-row {
   display: flex;
   flex-wrap: wrap;

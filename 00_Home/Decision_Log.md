@@ -4,6 +4,7 @@ Anvand den har nar ett val blir bestamt. Malet ar att komma ihag varfor ni valde
 
 | Datum | Beslut | Projekt | Varfor | Agare | Omprovas? |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-31 | Kasserade idén att klä den moderna balken i trä | Kasserade projekt | Idén sparas som referens men är inte ett aktivt spår just nu | Du | Ja, om idén ska återupptas senare |
 | 2026-08-26 | Anvand den har mappen som planeringshub for lagenheten | Helheten | Haller referenser, projektanteckningar, beslut och delade tankar pa ett stalle | Du | Nej |
 | 2026-08-26 | Halla lagenhetsprojektet i ett publikt GitHub-arkiv | Helheten | Gor hela projektet latt att komma at, dela, versionshantera och senare publicera via GitHub Pages | Du | Om integritetsbehov andras |
 | 2026-08-26 | Publicera en svensk HTML-startsida via GitHub Pages | Delning | Ger flickvannen en enkel sida att navigera utan att behova lasa hela filstrukturen | Du | Nar sidan behover mer innehall |
