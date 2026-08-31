@@ -20,6 +20,7 @@ Vi far tilltrade 2026-12-21. Har samlar vi renoveringsideer, inflyttningsplaneri
 - Portabel AC.
 - Kaminmobel med TV-hiss.
 - Platsbyggd sittbank i hallen.
+- Hallmöbel med fyra inspirationsbilder.
 
 ## Sa Anvander Vi Det Har
 

@@ -9,7 +9,7 @@ Det har ar Codex arbetskarta for lagenhetsplaneringen. Anvandaren och flickvanne
 
 Snabba tankar hamnar i inkorgen, konkret arbete hamnar pa projektsidor och beslut kopieras till beslutsloggen nar ni ar overens. Nar nagot ar relevant for anvandaren eller flickvannen ska `index.html` uppdateras sa webbsidan fortsatter vara den primara vyn.
 
-Webbsidan visar kök, terrass, portabel AC, möbel vid kaminen med automatisk TV-hiss och platsbyggd sittbänk i hallen under Projekt.
+Webbsidan visar kök, terrass, portabel AC, möbel vid kaminen med automatisk TV-hiss och platsbyggd sittbänk i hallen samt hallmöbel med fyra inspirationsbilder under Projekt.
 Kasserade idéer visas i en separat kategori på webbsidan, inklusive idén att klä den moderna balken i trä.
 
 For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context_For_New_Chats.md). Filen `AGENTS.md` ger ocksa Codex automatisk projektkontext i den har mappen.
@@ -47,6 +47,8 @@ For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context
 - [Portabel AC](01_Projects/09_Portable_AC.md)
 - [Kaminmobel med TV-hiss](01_Projects/10_TV_Lift_Furniture.md)
 - [Platsbyggd sittbank i hallen](01_Projects/11_Hallway_Bench.md)
+
+- [Hallmöbel](01_Projects/12_Hallway_Furniture.md)
 
 ## Kasserade Projekt
 
