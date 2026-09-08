@@ -11,6 +11,23 @@ Den ledande iden just nu ar ett morkblatt kok med varmt tra, massingsdetaljer oc
 
 ![Bla koksinspiration](../03_References/Images/kitchen-blue-ai-inspiration.png)
 
+## Ny Inspiration
+
+Fyra nya referenser har lagts till for att jamfora material och alternativa kulorriktningar:
+
+- Morkt adrat tra med rafflade massingshandtag och ljus stenbankskiva.
+- En oversikt med greige, salviagron, varm beige, morkgron, dov bla och varm gra.
+- Ett komplett kok i dampad salviagron ton.
+- Ett komplett kok i varm terrakottaton.
+
+![Materialdetalj i morkt tra och massing](../03_References/Images/kitchen-dark-wood-brass-detail.png)
+
+![Sex kuloralternativ for koket](../03_References/Images/kitchen-colour-options.png)
+
+![Salviagron koksinspiration](../03_References/Images/kitchen-sage-green-inspiration.png)
+
+![Terrakottafargad koksinspiration](../03_References/Images/kitchen-terracotta-inspiration.png)
+
 ## Nuvarande Fakta
 
 - Oppet kok och vardagsrum.
