@@ -28,6 +28,23 @@ Fyra nya referenser har lagts till for att jamfora material och alternativa kulo
 
 ![Terrakottafargad koksinspiration](../03_References/Images/kitchen-terracotta-inspiration.png)
 
+## Greige Och Olivgron Inspiration
+
+Fyra nya inspirationsbilder visar hur koket kan fa ett lugnare, mer arkitektoniskt uttryck som samspelar med takbjalkar, murstock och vardagsrum:
+
+- Greige shakerfronter med stenbankskiva, varm traaccent och sittplatser vid kon.
+- Platsbyggd bokhylla och forvaring som binder ihop kok och vardagsrum.
+- En olivgron variant med slata fronter och en mer mobellik kansla.
+- Ett stamningsperspektiv med hogskap, mjuk belysning och samma varma materialpalett.
+
+![Greige kok med shakerfronter och sittplatser vid kon](../03_References/Images/kitchen-greige-island-front-inspiration.png)
+
+![Greige kok med platsbyggd bokhylla mot vardagsrummet](../03_References/Images/kitchen-greige-library-inspiration.png)
+
+![Olivgront kok med slata fronter och platsbyggd bokhylla](../03_References/Images/kitchen-olive-library-inspiration.png)
+
+![Greige kok med hogskap och varm kvallsbelysning](../03_References/Images/kitchen-greige-evening-inspiration.png)
+
 ## Nuvarande Fakta
 
 - Oppet kok och vardagsrum.
