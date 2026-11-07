@@ -40,6 +40,7 @@ For nya Codex-chattar finns [Snabbkontext For Nya Chattar](00_Home/Quick_Context
 - [Inflytt och Tilltradesdag](01_Projects/02_Move_In_and_Access_Day.md)
 - [Papper, BRF och Admin](01_Projects/03_Paperwork_BRF_Admin.md)
 - [Terrass och Vaxter](01_Projects/04_Terrace_and_Plants.md)
+- [Sovrum](01_Projects/13_Bedroom.md)
 - [Belysning och El](01_Projects/05_Lighting_and_Electrical.md)
 - [Forvaring och Platsbyggt](01_Projects/06_Storage_and_Built_Ins.md)
 - [Badrum och Gast-WC](01_Projects/07_Bathroom_and_Guest_WC.md)
