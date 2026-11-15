@@ -17,7 +17,7 @@ En praktisk och välkomnande hall med plats för vardagens saker.
 
 Ingår:
 
-- Fyra inskickade inspirationsbilder, sparade i originalskick.
+- Sex inskickade inspirationsbilder, sparade i originalskick.
 - Utforska möbeltyp, förvaring, material, spegel och belysning.
 
 Ingår inte:
@@ -41,7 +41,7 @@ Inte bestämd.
 
 ## Beslut
 
-- Hallmöbel läggs till som ett separat projekt med fyra inspirationsbilder.
+- Hallmöbel läggs till som ett separat projekt med sex inspirationsbilder.
 - Ingen möbellösning är vald ännu.
 
 ## Referenser
@@ -55,3 +55,7 @@ Bilder inskickade av användaren 2026-08-31. Ursprungliga webbadresser är inte 
 - [Inspirationsbild 2](../03_References/Images/hallmobel-inspiration-2.png): Smalt konsolbord i mörkt trä med spegel, bordslampa och korg.
 - [Inspirationsbild 3](../03_References/Images/hallmobel-inspiration-3.png): Vägghängd träkonsol med rund spegel, separat skoställ och varm belysning.
 - [Inspirationsbild 4](../03_References/Images/hallmobel-inspiration-4.png): Sittbänk med dyna och korgförvaring, krokar och en hög spegel.
+- [Inspirationsbild 5](../03_References/Images/hallmobel-inspiration-5.png): Fristående hallbyrå i mörkt trä med spegel, belysning och avlastningsyta.
+- [Inspirationsbild 6](../03_References/Images/hallmobel-inspiration-6.png): Platsbyggd förvaring med ribbad trävägg, klädstång och sittbänk.
+
+Bilder 5 och 6 inskickade av användaren 2026-11-15.
